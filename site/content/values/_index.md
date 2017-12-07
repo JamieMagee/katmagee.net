@@ -1,7 +1,5 @@
 ---
 title: "Values"
-type: "values"
-page: "/values.html"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
