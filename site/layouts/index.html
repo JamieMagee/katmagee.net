@@ -1,13 +1,32 @@
-{{ define "main" }}
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body>
+        <div>
+            {{ if .Site.Params.nav.enable }}
+            {{ partial "nav.html" . }}
+            {{ end }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+            {{ if .Site.Params.hero.enable }}
+            {{ partial "hero.html" . }}
+            {{ end }}
 
-{{ partial "short-text" .Params.blurb}}
+            {{ if .Site.Params.process.enable }}
+            {{ partial "process.html" . }}
+            {{ end }}
 
-{{ partial "2-up" .Params }}
+            {{ if .Site.Params.case_studies.enable }}
+            {{ partial "case_studies.html" . }}
+            {{ end }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+            {{ if .Site.Params.footer.enable }}
+            {{ partial "footer.html" . }}
+            {{ end }}
+        </div>
 
-{{ partial "blog" . }}
+        {{ partial "scripts.html" . }}
 
-{{ end }}
+    </body>
+</html>

@@ -27,11 +27,6 @@ gulp.task("build-preview", ["css", "js", "cms-assets", "hugo-preview"]);
 
 gulp.task("css", () => (
   gulp.src("./src/css/*.css")
-    .pipe(postcss([
-      cssImport({from: "./src/css/main.css"}),
-      cssnext(),
-      cssnano(),
-    ]))
     .pipe(gulp.dest("./dist/css"))
     .pipe(browserSync.stream())
 ));
@@ -57,7 +52,7 @@ gulp.task("js", (cb) => {
 
 gulp.task("svg", () => {
   const svgs = gulp
-    .src("site/static/img/icons-*.svg")
+    .src("site/static/svg/*.svg")
     .pipe(svgmin())
     .pipe(svgstore({inlineSvg: true}));
 

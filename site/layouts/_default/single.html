@@ -1,6 +1,27 @@
-{{ define "main" }}
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    <head>
+        {{ partial "head_casestudy.html" . }}
+    </head>
+    <body>
+        {{ partial "nav_casestudy.html" . }}
+        {{ partial "casestudy_main.html" . }}
+        {{ partial "testimonial.html" . }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
-{{ .Content }}
+        <section>
+            <div class="content-case-study">
+                {{ .Content }}
+            </div>
+        </section>
 
-{{ end }}
+        {{ if .Site.Params.case_studies.enable }}
+        {{ partial "case_studies.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.footer.enable }}
+        {{ partial "footer.html" . }}
+        {{ end }}
+
+        {{ partial "scripts.html" . }}
+    </body>
+</html>
