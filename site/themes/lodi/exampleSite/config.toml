@@ -1,6 +1,7 @@
-baseurl = "/"
+baseURL = "localhost:1313"
 languageCode = "en-us"
-title = "Homepage"
+title = "My Portfolio Website"
+theme = "hugo-lodi-theme"
 googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
