@@ -30,3 +30,11 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Configuration"
+    name: "configuration"
+    files:
+      - label: "Config"
+        name: "config"
+        file: "site/config.toml"
+        fields:
+          - {label: "Base URL", name: "baseurl", widget: string}
