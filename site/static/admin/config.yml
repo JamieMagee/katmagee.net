@@ -41,4 +41,4 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Language code", name: "languageCode", widget: "string"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Google analytics code", name: "googleAnalytics", widget: "string"}
-          - {label: "Theme colour", name: "params.theme_color", widget: "color"}
+          - {label: "Settings", name: "params", widget: "list", fields: [{label: "Theme colour", name: "theme_color", widget: "color"}]}
