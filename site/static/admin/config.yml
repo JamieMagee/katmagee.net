@@ -86,9 +86,10 @@ collections:
       - label: Body
         name: body
         widget: markdown
-  - label: Processes
+  - label: Process
     name: process
     folder: site/data/process
+    extension: yaml
     create: true
     fields:
       - label: Weight
