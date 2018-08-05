@@ -162,12 +162,8 @@ collections:
                     name: subtitle
                     widget: text
                   - label: Text
-                    name: hero_right
-                    widget: list
-                    field:
-                      label: Paragraph
-                      name: paragraph
-                      widget: markdown
+                    name: text
+                    widget: markdown
                   - label: CV
                     name: resume
                     widget: file
