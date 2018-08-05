@@ -35,7 +35,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - label: "Config"
         name: "config"
-        file: "site/config.tml"
+        file: "site/config.yml"
         fields:
           - {label: "Base URL", name: "baseurl", widget: "string"}
           - {label: "Language code", name: "languageCode", widget: "string"}
@@ -43,7 +43,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Google analytics code", name: "googleAnalytics", widget: "string"}
           - {label: "General settings", name: "params", widget: "object", fields: [{label: "Theme colour", name: "theme_color", widget: "color"}, {label: "Description", name: "description", widget: "string"} ,{label: "Photo", name: "description_photo", widget: "image"}, {label: "Favicon", name: "favicon", widget: "image"}, {label: "Logo", name: "logo", widget: "image"}, {label: "Email", name: "email", widget: "string"}, {label: "Facebook", name: "facebook", widget: "string"}, {label: "Twitter", name: "twitter", widget: "string"}, {label: "Dribble", name: "dribble", widget: "string"}, {label: "Linkedin", name: "linkedin", widget: "string"}, {label: "Medium", name: "medium", widget: "string"}]}
           - {label: "Navigation settings", name: "params.nav", widget: "object", fields: [{label: "Enabled", name: "enable", widget: "boolean"}]}
-          - {label: "Hero settings", name: "params.hero", widget: "object", fields: [{label: "Enabled", name: "enable", widget: "boolean"}, {label: "Avatar", name: "avatar", widget: "image"}, {label: "Subtitle", name: "subtitle", widget: "text"}, {label: "Text", name: "hero_right", widget: "list", field: {label: "Paragraph", name: "paragraph", "widget: "markdown}}, {label: "CV", name: "resume", widget: "file"}]}
+          - {label: "Hero settings", name: "params.hero", widget: "object", fields: [{label: "Enabled", name: "enable", widget: "boolean"}, {label: "Avatar", name: "avatar", widget: "image"}, {label: "Subtitle", name: "subtitle", widget: "text"}, {label: "Text", name: "hero_right", widget: "list", field: {label: "Paragraph", name: "paragraph", widget: "markdown"}}, {label: "CV", name: "resume", widget: "file"}]}
           - {label: "Process settings", name: "params.process", widget: "object", fields: [{label: "Enabled", name: "enable", widget: "boolean"}, {label: "Title", name: "title", widget: "string"}, {label: "Subtitle", name: "subtitle", widget: "string"}]}
           - {label: "Case study settings", name: "params.case_studies", widget: "object", fields: [{label: "Enabled", name: "enable", widget: "boolean"}, {label: "Title", name: "title", widget: "string"}, {label: "Subtitle", name: "subtitle", widget: "string"}]}
           - {label: "Footer settings", name: "params.footer", widget: "object", fields: [{label: "Enabled", name: "enable", widget: "boolean"}]}
