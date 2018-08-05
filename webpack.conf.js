@@ -26,10 +26,7 @@ export default {
 
   context: path.join(__dirname, 'src'),
   entry: {
-    cms: ['./js/cms'],
-    jquery: ['./js/jquery'],
-    scrollIt: ['./js/scrollIt'],
-    stickUp: ['./js/stickUp']
+    cms: ['./js/cms']
   },
   output: {
     path: path.join(__dirname, 'dist'),
