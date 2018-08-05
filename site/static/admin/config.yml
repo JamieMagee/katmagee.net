@@ -2,6 +2,7 @@ backend:
   name: git-gateway
 media_folder: site/static/img
 public_folder: img
+publish_mode: editorial_workflow
 collections:
   - label: Case studies
     name: casestudies
