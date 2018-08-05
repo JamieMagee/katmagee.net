@@ -97,7 +97,7 @@
         {{ end }}
         {{ if isset .Site.Params "medium" }}
         <a href="https://medium.com/@{{ .Site.Params.Medium }}" target="blank">
-            <img src="img/medium.png" style="width: 16px;" alt="">
+            <img src="{{ .Site.BaseURL }}img/medium.png" style="width: 16px;" alt="">
         </a>
         {{ end }}
     </div>
