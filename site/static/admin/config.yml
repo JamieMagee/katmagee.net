@@ -1,49 +1,206 @@
 backend:
   name: git-gateway
-
-media_folder: "site/static/img" # Folder where user uploaded files should go
-public_folder: "img"
-
-collections: # A list of collections the CMS should be able to edit
-  - name: "casestudies"
-    label: "Case studies"
-    folder: "site/content/case-studies"
+media_folder: site/static/img
+public_folder: img
+collections:
+  - name: casestudies
+    label: Case studies
+    folder: site/content/case-studies
     create: true
     fields:
-      - {label: "Page Title", name: "title", widget: "string", default: "Kat Nunn | "}
-      - {label: "Page Description", name: "description", widget: "string"}
-      - {label: "Link text", name: "nav_heading", widget: "string"}
-      - {label: "Thumbnail", name: "thumbnail", widget: "image"}
-      - {label: "Title", name: "case_title", widget: "string"}
-      - {label: "Short Title", name: "case_short_title", widget: "string"}
-      - {label: "Subtitle", name: "case_subtitle", widget: "string"}
-      - {label: "Description", name: "case_description", widget: "string"}
-      - {label: "Featured Image", name: "case_feature_img", widget: "image"}
-      - {label: "Summary", name: "case_summary", widget: "text"}
-      - {label: "Team", name: "team", widget: "list", default: ["Kat Nunn"]}
-      - {label: "Roles", name: "roles", widget: "list", default: ["Role1"]}
-      - {label: "Methods", name: "methods", widget: "list", default: ["Method1"]}
-      - {label: "Links", name: "button_links", widget: "list", fields: [{label: "URL", name: "link", widget: "string"}, {label: "Image", name: "img", widget: "image"}, {label: "Text", name: "text", widget: "string"}] }
-      - {label: "Testimonial", name: "testimonial", widget: "string"}
-      - {label: "Testimonial photo", name: "testimonial_photo", widget: "image"}
-      - {label: "Testimonial Author", name: "testimonial_author", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Draft", name: "draft", widget: "boolean"}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - label: "Configuration"
-    name: "configuration"
-    files:
-      - label: "Config"
-        name: "config"
-        file: "site/config.yml"
+      - label: Page Title
+        name: title
+        widget: string
+        default: 'Kat Nunn | '
+      - label: Page Description
+        name: description
+        widget: string
+      - label: Link text
+        name: nav_heading
+        widget: string
+      - label: Thumbnail
+        name: thumbnail
+        widget: image
+      - label: Title
+        name: case_title
+        widget: string
+      - label: Short Title
+        name: case_short_title
+        widget: string
+      - label: Subtitle
+        name: case_subtitle
+        widget: string
+      - label: Description
+        name: case_description
+        widget: string
+      - label: Featured Image
+        name: case_feature_img
+        widget: image
+      - label: Summary
+        name: case_summary
+        widget: text
+      - label: Team
+        name: team
+        widget: list
+        default:
+          - Kat Nunn
+      - label: Roles
+        name: roles
+        widget: list
+        default:
+          - Role1
+      - label: Methods
+        name: methods
+        widget: list
+        default:
+          - Method1
+      - label: Links
+        name: button_links
+        widget: list
         fields:
-          - {label: "Base URL", name: "baseurl", widget: "string"}
-          - {label: "Language code", name: "languageCode", widget: "string"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Google analytics code", name: "googleAnalytics", widget: "string"}
-          - {label: "General settings", name: "params", widget: "object", fields: [{label: "Theme colour", name: "theme_color", widget: "color"}, {label: "Description", name: "description", widget: "string"} ,{label: "Photo", name: "description_photo", widget: "image"}, {label: "Favicon", name: "favicon", widget: "image"}, {label: "Logo", name: "logo", widget: "image"}, {label: "Email", name: "email", widget: "string"}, {label: "Facebook", name: "facebook", widget: "string"}, {label: "Twitter", name: "twitter", widget: "string"}, {label: "Dribble", name: "dribble", widget: "string"}, {label: "Linkedin", name: "linkedin", widget: "string"}, {label: "Medium", name: "medium", widget: "string"}]}
-          - {label: "Navigation settings", name: "params.nav", widget: "object", fields: [{label: "Enabled", name: "enable", widget: "boolean"}]}
-          - {label: "Hero settings", name: "params.hero", widget: "object", fields: [{label: "Enabled", name: "enable", widget: "boolean"}, {label: "Avatar", name: "avatar", widget: "image"}, {label: "Subtitle", name: "subtitle", widget: "text"}, {label: "Text", name: "hero_right", widget: "list", field: {label: "Paragraph", name: "paragraph", widget: "markdown"}}, {label: "CV", name: "resume", widget: "file"}]}
-          - {label: "Process settings", name: "params.process", widget: "object", fields: [{label: "Enabled", name: "enable", widget: "boolean"}, {label: "Title", name: "title", widget: "string"}, {label: "Subtitle", name: "subtitle", widget: "string"}]}
-          - {label: "Case study settings", name: "params.case_studies", widget: "object", fields: [{label: "Enabled", name: "enable", widget: "boolean"}, {label: "Title", name: "title", widget: "string"}, {label: "Subtitle", name: "subtitle", widget: "string"}]}
-          - {label: "Footer settings", name: "params.footer", widget: "object", fields: [{label: "Enabled", name: "enable", widget: "boolean"}]}
+          - label: URL
+            name: link
+            widget: string
+          - label: Image
+            name: img
+            widget: image
+          - label: Text
+            name: text
+            widget: string
+      - label: Testimonial
+        name: testimonial
+        widget: string
+      - label: Testimonial photo
+        name: testimonial_photo
+        widget: image
+      - label: Testimonial Author
+        name: testimonial_author
+        widget: string
+      - label: Date
+        name: date
+        widget: datetime
+      - label: Draft
+        name: draft
+        widget: boolean
+      - label: Body
+        name: body
+        widget: markdown
+  - label: Configuration
+    name: configuration
+    files:
+      - label: Config
+        name: config
+        file: site/config.yml
+        fields:
+          - label: Base URL
+            name: baseurl
+            widget: string
+          - label: Language code
+            name: languageCode
+            widget: string
+          - label: Title
+            name: title
+            widget: string
+          - label: Google analytics code
+            name: googleAnalytics
+            widget: string
+          - label: Settings
+            name: params
+            widget: object
+            fields:
+              - label: Theme colour
+                name: theme_color
+                widget: color
+              - label: Description
+                name: description
+                widget: string
+              - label: Photo
+                name: description_photo
+                widget: image
+              - label: Favicon
+                name: favicon
+                widget: image
+              - label: Logo
+                name: logo
+                widget: image
+              - label: Email
+                name: email
+                widget: string
+              - label: Facebook
+                name: facebook
+                widget: string
+              - label: Twitter
+                name: twitter
+                widget: string
+              - label: Dribble
+                name: dribble
+                widget: string
+              - label: Linkedin
+                name: linkedin
+                widget: string
+              - label: Medium
+                name: medium
+                widget: string
+              - label: Navigation settings
+                name: nav
+                widget: object
+                fields:
+                  - label: Enabled
+                    name: enable
+                    widget: boolean
+              - label: Hero settings
+                name: hero
+                widget: object
+                fields:
+                  - label: Enabled
+                    name: enable
+                    widget: boolean
+                  - label: Avatar
+                    name: avatar
+                    widget: image
+                  - label: Subtitle
+                    name: subtitle
+                    widget: text
+                  - label: Text
+                    name: hero_right
+                    widget: list
+                    field:
+                      label: Paragraph
+                      name: paragraph
+                      widget: markdown
+                  - label: CV
+                    name: resume
+                    widget: file
+              - label: Process settings
+                name: process
+                widget: object
+                fields:
+                  - label: Enabled
+                    name: enable
+                    widget: boolean
+                  - label: Title
+                    name: title
+                    widget: string
+                  - label: Subtitle
+                    name: subtitle
+                    widget: string
+              - label: Case study settings
+                name: case_studies
+                widget: object
+                fields:
+                  - label: Enabled
+                    name: enable
+                    widget: boolean
+                  - label: Title
+                    name: title
+                    widget: string
+                  - label: Subtitle
+                    name: subtitle
+                    widget: string
+              - label: Footer settings
+                name: footer
+                widget: object
+                fields:
+                  - label: Enabled
+                    name: enable
+                    widget: boolean
