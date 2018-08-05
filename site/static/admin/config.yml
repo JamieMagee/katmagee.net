@@ -3,8 +3,8 @@ backend:
 media_folder: site/static/img
 public_folder: img
 collections:
-  - name: casestudies
-    label: Case studies
+  - label: Case studies
+    name: casestudies
     folder: site/content/case-studies
     create: true
     fields:
@@ -85,6 +85,35 @@ collections:
       - label: Body
         name: body
         widget: markdown
+  - label: Processes
+    name: process
+    folder: site/data/processes
+    create: true
+    fields:
+      - label: Weight
+        name: weight
+        widget: number
+        valueType: int
+        min: 1
+      - label: Title
+        name: title
+        widget: string
+      - label: Icon
+        name: icon
+        widget: select
+        options:
+          - book.svg
+          - closetag.svg
+          - dl-resume.svg
+          - download.svg
+          - eyeball.svg
+          - repeat.svg
+          - rulerpencil.svg
+          - ui.svg
+          - wand.svg
+      - label: Description
+        name: description
+        widget: string
   - label: Configuration
     name: configuration
     files:
