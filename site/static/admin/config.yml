@@ -87,7 +87,7 @@ collections:
         widget: markdown
   - label: Processes
     name: process
-    folder: site/data/processes
+    folder: site/data/process
     create: true
     fields:
       - label: Weight
