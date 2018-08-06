@@ -33,10 +33,10 @@ draft: false
 ---
 ‘We are here’ is a bold, simple, confident statement – almost a promise – about who we are, and what we do together. This identity and purpose is made up of lots of different parts. ‘We are here’ is a framework that brings together the aspect of togetherness and bold confident statements that borders on a call to action.
 
-![](/img/itripwebsite.gif)
+![null](/img/itripwebsite.gif)
 
 ‘We are here’ really shines in its application. In its simplicity, it can be applied and activated in so many messages and situations.
 
 A main feature of the identity are bold ‘we are here to ….’ statements, they are statements you can relate to and get behind. This means there is no fluff, and no bullshit.
 
-![](/img/designit_tote_4.jpg)
+![null](/img/designit_tote_4.jpg)
