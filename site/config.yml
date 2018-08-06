@@ -9,7 +9,6 @@ params:
     title: Case Studies
   description: 'Portfolio of Alexis Collado, UX Designer'
   description_photo: portfolio.jpg
-  dribbble: test
   email: myemail@gmail.com
   facebook: lex.collado
   favicon: favicon.png
@@ -53,7 +52,7 @@ params:
   nav:
     enable: true
   process:
-    enable: true
+    enable: false
     subtitle: Full Process Design
     title: My Process
   theme_color: '#574CDD'
