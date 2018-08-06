@@ -9,8 +9,8 @@ params:
     title: Case Studies
   description: 'Portfolio of Alexis Collado, UX Designer'
   description_photo: portfolio.jpg
-  email: myemail@gmail.com
-  facebook: lex.collado
+  email: kjnunn30@gmail.com
+  facebook: ''
   favicon: favicon.png
   footer:
     enable: true
@@ -46,9 +46,9 @@ params:
 
       I'm finishing my Bachelor's degree in Management Information Systems at
       the Ateneo de Manila University, expecting to graduate in 2018.
-  linkedin: 'https://www.linkedin.com/in/alexander-hans-collado-jr-9444146a'
+  linkedin: 'https://www.linkedin.com/in/katnunn/'
   logo: logo.png
-  medium: ahvccollado
+  medium: 'https://medium.com/@katnunn'
   nav:
     enable: true
   process:
@@ -56,4 +56,4 @@ params:
     subtitle: Full Process Design
     title: My Process
   theme_color: '#574CDD'
-  twitter: lexiscollado
+  twitter: 'https://twitter.com/k_j_nunn'
