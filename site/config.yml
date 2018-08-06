@@ -31,7 +31,7 @@ params:
       your reader, and I'm on a vendetta against incomprehensible jargon.
   linkedin: 'https://www.linkedin.com/in/katnunn/'
   logo: logo.png
-  medium: 'https://medium.com/@katnunn'
+  medium: 'katnunn'
   nav:
     enable: true
   process:
@@ -39,4 +39,4 @@ params:
     subtitle: Full Process Design
     title: My Process
   theme_color: '#574CDD'
-  twitter: 'https://twitter.com/k_j_nunn'
+  twitter: 'k_j_nunn'
