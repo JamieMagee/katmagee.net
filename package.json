@@ -50,9 +50,15 @@
     "whatwg-fetch": "^2.0.0"
   },
   "devDependencies": {
+    "gulp-cache": "^1.0.2",
+    "gulp-imagemin": "^4.1.0",
     "gulp-inject": "^4.2.0",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",
+    "imagemin-giflossy": "^5.1.10",
+    "imagemin-mozjpeg": "^7.0.0",
+    "imagemin-pngquant": "^6.0.0",
+    "imagemin-zopfli": "^5.1.0",
     "svg-sprite-loader": "^3.0.0"
   }
 }
