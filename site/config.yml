@@ -15,7 +15,7 @@ params:
   footer:
     enable: true
   hero:
-    avatar: avatar.jpg
+    avatar: /img/katprofilesquare.jpg
     enable: true
     resume: ResumeCollado.pdf
     subtitle: 'Hi! I''m Alexis, a UX Designer and Evangelist from Manila.'
