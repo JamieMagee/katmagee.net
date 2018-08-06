@@ -164,7 +164,7 @@ collections:
                 name: twitter
                 widget: string
               - label: Dribble
-                name: dribble
+                name: dribbble
                 widget: string
               - label: Linkedin
                 name: linkedin
