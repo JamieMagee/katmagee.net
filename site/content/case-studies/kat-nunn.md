@@ -1,6 +1,6 @@
 ---
 title: Kat Nunn | itrip identity
-description: Identity concept for itrip1
+description: Identity concept for itrip17
 nav_heading: test
 thumbnail: /img/designit_itrip_2017_0146.jpg
 case_title: itrip17
@@ -16,7 +16,7 @@ case_summary: >-
   Identity concept, branding and communications for Designit’s yearly
   inspiration trip. The itrip is all about getting the people of Designit in one
   place for inspiration and togetherness. I worked closely together with an art
-  director to create a unique identity for 2017's itrip, which celebrated who we
+  director to create a unique identity for 2017's itrip, that celebrated who we
   are, and what we do together. 
 team:
   - ''
