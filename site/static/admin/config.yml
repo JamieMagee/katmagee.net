@@ -64,7 +64,7 @@ collections:
             widget: string
           - label: Image
             name: img
-            widget: image
+            widget: fontawesome-regular
           - label: Text
             name: text
             widget: string
