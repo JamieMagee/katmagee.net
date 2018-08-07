@@ -1,6 +1,3 @@
-import 'react-select/dist/react-select.css';
-import 'react-virtualized-select/styles.css';
-import 'react-virtualized/styles.css';
 import * as FontawesomeWidget from 'netlify-cms-widget-fontawesome';
 import CMS from 'netlify-cms';
 
