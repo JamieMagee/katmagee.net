@@ -32,11 +32,10 @@ gulp.task('hugo', cb => buildSite(cb));
 gulp.task('hugo-preview', cb =>
   buildSite(cb, ['--buildDrafts', '--buildFuture'])
 );
-gulp.task('build', ['css', 'js', 'cms-assets', 'hugo', 'imagemin']);
+gulp.task('build', ['css', 'js', 'hugo', 'imagemin']);
 gulp.task('build-preview', [
   'css',
   'js',
-  'cms-assets',
   'hugo-preview',
   'imagemin'
 ]);
@@ -47,12 +46,6 @@ gulp.task('css', () =>
     .pipe(postcss([cssImport(), cssnext(), cssnano()]))
     .pipe(gulp.dest('./dist/css'))
     .pipe(browserSync.stream())
-);
-
-gulp.task('cms-assets', () =>
-  gulp
-    .src('./node_modules/netlify-cms/dist/*.{woff,eot,woff2,ttf,svg,png}')
-    .pipe(gulp.dest('./dist/css'))
 );
 
 gulp.task('js', cb => {
@@ -88,7 +81,7 @@ gulp.task('svg', () => {
     .pipe(gulp.dest('site/layouts/partials/'));
 });
 
-gulp.task('server', ['hugo', 'css', 'cms-assets', 'js', 'svg'], () => {
+gulp.task('server', ['hugo', 'css', 'js', 'svg'], () => {
   browserSync.init({
     server: {
       baseDir: './dist'
