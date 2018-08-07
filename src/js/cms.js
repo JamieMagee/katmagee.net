@@ -1,4 +1,6 @@
+import NetlifyCMSWidgetFontawesome from 'netlify-cms-widget-fontawesome';
 import CMS from 'netlify-cms';
+import React from 'react';
 
 class ColorControl extends React.Component {
   render() {
@@ -15,3 +17,8 @@ class ColorControl extends React.Component {
 
 CMS.registerPreviewStyle('/css/final.css');
 CMS.registerWidget('color', ColorControl);
+CMS.registerWidget(
+  'fontawesome-regular',
+  NetlifyCMSWidgetFontawesome.Regular,
+  NetlifyCMSWidgetFontawesome.Preview
+);
