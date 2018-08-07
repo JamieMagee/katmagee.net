@@ -25,29 +25,19 @@
     "babel-preset-react": "^6.11.1",
     "babel-register": "^6.11.6",
     "browser-sync": "^2.24.6",
-    "css-loader": "^1.0.0",
     "cssnano": "^4.0.5",
-    "date-fns": "^1.27.2",
     "eslint": "^5.0.0",
     "eslint-plugin-import": "^2.0.0",
     "exports-loader": "^0.7.0",
-    "file-loader": "^1.0.0",
-    "gotrue-js": "^0.9.1",
     "gulp": "^3.9.1",
     "gulp-babel": "^7.0.0",
     "gulp-postcss": "^8.0.0",
     "gulp-util": "^3.0.7",
     "imports-loader": "^0.8.0",
-    "netlify-cms": "^2.0.8",
+    "netlify-cms": "^2.0.9",
     "postcss-cssnext": "^3.0.0",
     "postcss-import": "^12.0.0",
-    "postcss-loader": "^2.1.6",
-    "postcss-uncss": "^0.16.0",
-    "react": "16.4.2",
-    "uncss": "^0.16.0",
-    "url-loader": "^1.0.0",
-    "webpack": "^3.0.0",
-    "whatwg-fetch": "^2.0.0"
+    "webpack": "^3.0.0"
   },
   "devDependencies": {
     "gulp-cache": "^1.0.2",
@@ -58,7 +48,6 @@
     "imagemin-giflossy": "^5.1.10",
     "imagemin-mozjpeg": "^7.0.0",
     "imagemin-pngquant": "^6.0.0",
-    "imagemin-zopfli": "^5.1.0",
-    "svg-sprite-loader": "^3.0.0"
+    "imagemin-zopfli": "^5.1.0"
   }
 }
