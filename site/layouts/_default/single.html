@@ -6,7 +6,9 @@
     <body>
         {{ partial "nav_casestudy.html" . }}
         {{ partial "casestudy_main.html" . }}
+        {{ if .Params.testimonial}}
         {{ partial "testimonial.html" . }}
+        {{ end }}
 
         <section>
             <div class="content-case-study">

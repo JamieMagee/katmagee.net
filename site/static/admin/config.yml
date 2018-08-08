@@ -2,7 +2,6 @@ backend:
   name: git-gateway
 media_folder: site/static/img
 public_folder: img
-publish_mode: editorial_workflow
 collections:
   - label: Case studies
     name: casestudies
@@ -12,28 +11,15 @@ collections:
       - label: Page Title
         name: title
         widget: string
-        default: 'Kat Nunn | '
-      - label: Page Description
-        name: description
-        widget: string
-      - label: Link text
-        name: nav_heading
-        widget: string
-      - label: Thumbnail
-        name: thumbnail
-        widget: image
-      - label: Title
-        name: case_title
-        widget: string
-      - label: Short Title
-        name: case_short_title
-        widget: string
       - label: Subtitle
         name: case_subtitle
         widget: string
       - label: Description
-        name: case_description
+        name: description
         widget: string
+      - label: Thumbnail
+        name: thumbnail
+        widget: image
       - label: Featured Image
         name: case_feature_img
         widget: image
@@ -62,19 +48,35 @@ collections:
             widget: string
           - label: Image
             name: img
-            widget: image
+            widget: select
+            options:
+              - book.svg
+              - closetag.svg
+              - dl-resume.svg
+              - download.svg
+              - eyeball.svg
+              - repeat.svg
+              - rulerpencil.svg
+              - ui.svg
+              - wand.svg
           - label: Text
             name: text
             widget: string
       - label: Testimonial
         name: testimonial
         widget: string
+        required: false
       - label: Testimonial photo
         name: testimonial_photo
         widget: image
+        required: false
       - label: Testimonial Author
         name: testimonial_author
         widget: string
+        required: false
+      - label: Testimonial Author Title
+        name: testimonial_subtitle
+        type: string
       - label: Date
         name: date
         widget: datetime
