@@ -2,11 +2,13 @@ backend:
   name: git-gateway
 media_folder: site/static/img
 public_folder: img
+display_url: https://new.katnunn.co.uk
 collections:
   - label: Case studies
     name: casestudies
     folder: site/content/case-studies
     create: true
+    slug: '{{slug}}'
     fields:
       - label: Page Title
         name: title
@@ -163,7 +165,7 @@ collections:
               - label: Twitter
                 name: twitter
                 widget: string
-              - label: Dribble
+              - label: Dribbble
                 name: dribbble
                 widget: string
               - label: Linkedin
