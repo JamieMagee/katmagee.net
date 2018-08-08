@@ -1,7 +1,7 @@
 ---
 title: Kat Nunn | itrip identity
 description: Identity concept
-nav_heading: test
+nav_heading: itrip17
 thumbnail: /img/designit_itrip_2017_0146.jpg
 case_title: itrip17
 case_short_title: Identity concept
