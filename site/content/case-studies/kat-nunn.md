@@ -16,12 +16,6 @@ case_summary: >-
   place for inspiration and togetherness. I worked closely together with an art
   director to create a unique identity for 2017's itrip, that celebrated who we
   are, and what we do together.
-team:
-  - ''
-roles:
-  - ''
-methods:
-  - ''
 button_links: []
 testimonial: a
 testimonial_photo: /img/designit_tote_4.jpg

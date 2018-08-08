@@ -43,21 +43,19 @@ collections:
       - label: Team
         name: team
         widget: list
-        default:
-          - Kat Nunn
+        required: false
       - label: Roles
         name: roles
         widget: list
-        default:
-          - Role1
+        required: false
       - label: Methods
         name: methods
         widget: list
-        default:
-          - Method1
+        required: false
       - label: Links
         name: button_links
         widget: list
+        required: false
         fields:
           - label: URL
             name: link
