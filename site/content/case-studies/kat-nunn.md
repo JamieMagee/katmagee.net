@@ -11,8 +11,11 @@ case_description: >-
   the year
 case_feature_img: /img/designit_itrip_2017_0146.jpg
 case_summary: >-
-  Identity concept, branding and communications for Designit’s biggest event of
-  the year, our yearly inspiration trip. 
+  Identity concept, branding and communications for Designit’s yearly
+  inspiration trip. The itrip is all about getting the people of Designit in one
+  place for inspiration and togetherness. I worked closely together with an art
+  director to create a unique identity for 2017's itrip, that celebrated who we
+  are, and what we do together.
 team:
   - ''
 roles:
