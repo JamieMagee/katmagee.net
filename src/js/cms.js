@@ -1,4 +1,5 @@
 import CMS from 'netlify-cms';
+import React from 'react';
 
 class ColorControl extends React.Component {
   render() {
