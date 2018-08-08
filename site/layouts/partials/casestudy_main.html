@@ -1,8 +1,8 @@
 <section>
     <div class="main-case-study">
-        <h1 class="title" style="text-align: center;">{{ .Params.case_title }}</h1>
+        <h1 class="title" style="text-align: center;">{{ .Params.title }}</h1>
         <h2 class="subtitle" style="text-align: center;">{{ .Params.case_subtitle }}</h2>
-        <img src="{{ .Site.BaseURL }}img/{{ .Params.case_feature_img }}" alt="">
+        <img src="{{ .Params.case_feature_img }}" alt="">
         <p class="summary">{{ .Params.case_summary }}</p>
         {{ if .Params.team | or .Params.roles | or .Params.methods }}
         <div class="case-details">
@@ -33,7 +33,6 @@
             {{ end }}
         </div>
         {{ end }}
-        <h1 style="color: black; font-family: merriweather; font-size: 26px; line-height: 1.7em; margin-top: 20px;">{{ .Description }}</h1>
         <div class="case-links">
             {{ $baseUrl := .Site.BaseURL }} {{ range $element := .Params.button_links }}
             <div class="link-div">
