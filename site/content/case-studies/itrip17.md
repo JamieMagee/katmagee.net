@@ -19,7 +19,6 @@ roles:
 methods:
   - ''
 button_links: []
-testimonial_subtitle: a
 date: '2018-08-05T22:13:20+02:00'
 draft: false
 ---
