@@ -78,6 +78,7 @@ collections:
         required: false
       - label: Testimonial Author Title
         name: testimonial_subtitle
+        required: false
         type: string
       - label: Date
         name: date
