@@ -175,7 +175,7 @@ section {
 
 .subtitle {
   font-size: 28px;
-  color: #5a54af;
+  color: #49a483;
   font-weight: 300;
 }
 
@@ -219,12 +219,12 @@ section {
   /* Rectangle 3: */
   display: inline-block;
   margin-top: 20px;
-  background: #5a54af;
+  background: #49a483;
   /* Download Resume: */
   font-family: Roboto;
   font-size: 15px;
   /*padding: 15px 50px;*/
-  color: #c3d5ff;
+  color: #ffffff;
   padding: 18px 0;
   width: 296px;
   text-align: center;
@@ -288,7 +288,7 @@ section {
 .process-item h3 {
   /* Discover: */
   font-size: 28px;
-  color: #5a54af;
+  color: #49a483;
   letter-spacing: 0;
 }
 
@@ -390,7 +390,7 @@ section {
 
 .results-content hr {
   width: 30px;
-  border: 3px solid #5a54af;
+  border: 3px solid #49a483;
 }
 
 .main-case-study img {
@@ -407,7 +407,7 @@ section {
   font-family: Roboto;
   font-weight: bold;
   font-size: 22px;
-  color: #5a54af;
+  color: #49a483;
   letter-spacing: 0;
 }
 
