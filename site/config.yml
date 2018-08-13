@@ -5,33 +5,34 @@ googleAnalytics: UA-XXXXXXXX-Y
 params:
   case_studies:
     enable: true
-    subtitle: Selected Works
+    subtitle: ''
     title: Case Studies
   description: 'Portfolio of Kat Nunn, copywriter'
   description_photo: portfolio.jpg
   email: kjnunn30@gmail.com
   facebook: ''
-  favicon: favicon.png
+  favicon: /img/logo.png
   footer:
     enable: true
   hero:
     avatar: /img/katprofilesquare.jpg
     enable: true
-    resume: ResumeCollado.pdf
+    resume: /img/cv-final.pdf
     subtitle: 'Hi! I''m Kat, a copywriter, editor and problem solver. '
     text: >-
-      Cambridge Classicist turned professional word-nerd, currently working as a
-      copywriter with one of the world's leading strategic design agencies. I
-      graduated from Girton College, Cambridge in 2014, and have since had
-      experience ranging from a small startup company, to large international
-      agency setting.
+      I’m a native English speaker, human-centred writer, and certified word
+      nerd, who’s passionate about creating better experiences for people with
+      clear, meaningful and effective copy. 
 
 
-      I firmly believe that any good piece of writing starts with understanding
-      your reader, and I'm on a vendetta against incomprehensible jargon.
+      After graduating from Girton College, Cambridge, I moved to Copenhagen to
+      pursue my career in copywriting. With experience ranging from a small
+      startup company, to large international agency setting, I currently work
+      as a copywriter at Designit, one of the world’s leading strategic design
+      firms.
   linkedin: 'https://www.linkedin.com/in/katnunn/'
-  logo: logo.png
-  medium: 'katnunn'
+  logo: /img/logo.png
+  medium: katnunn
   nav:
     enable: true
   process:
@@ -39,4 +40,4 @@ params:
     subtitle: Full Process Design
     title: My Process
   theme_color: '#574CDD'
-  twitter: 'k_j_nunn'
+  twitter: k_j_nunn
