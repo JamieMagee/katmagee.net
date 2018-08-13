@@ -8,7 +8,7 @@ params:
     subtitle: Case studies and writing samples
     title: My work
   description: 'Portfolio of Kat Nunn, copywriter'
-  description_photo: portfolio.jpg
+  description_photo: /img/katprofilesquare.jpg
   email: kjnunn30@gmail.com
   facebook: ''
   favicon: /img/logo.png
