@@ -201,7 +201,7 @@ section {
 }
 
 .hero-right p a {
-  color: #574cdd;
+  color: #49a483;
   text-decoration: underline;
 }
 
@@ -340,7 +340,7 @@ section {
   border: solid 2px #e1e1e1;
   padding: 18px 0;
   text-align: center;
-  color: #574cdd;
+  color: #49a483;
   font-weight: 500;
   -webkit-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
@@ -504,7 +504,7 @@ section {
 }
 
 .content-case-study a {
-  color: #574cdd;
+  color: #49a483;
   text-decoration: underline;
 }
 
@@ -593,7 +593,7 @@ section {
 }
 
 .active {
-  color: #574cdd !important;
+  color: #49a483 !important;
   transition: 0.2s ease-in-out;
-  border-bottom: 3px solid #574cdd;
+  border-bottom: 3px solid #49a483;
 }
