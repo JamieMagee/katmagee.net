@@ -11,14 +11,14 @@ params:
   description_photo: /img/katprofilesquare.jpg
   email: kjnunn30@gmail.com
   facebook: ''
-  favicon: /img/logo.png
+  favicon: /img/favicon.png
   footer:
     enable: true
   hero:
     avatar: /img/katprofilesquare.jpg
     enable: true
     resume: /img/cv-final.pdf
-    subtitle: 'Hi! I''m Kat, a copywriter, editor and problem solver. '
+    subtitle: "Hi! I'm Kat, a copywriter, editor and problem solver. "
     text: >-
       I’m a native English speaker, human-centred writer, and certified word
       nerd, who’s passionate about creating better experiences for people with
