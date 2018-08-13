@@ -5,8 +5,8 @@ googleAnalytics: UA-XXXXXXXX-Y
 params:
   case_studies:
     enable: true
-    subtitle: ''
-    title: Case Studies
+    subtitle: Case studies and writing samples
+    title: My work
   description: 'Portfolio of Kat Nunn, copywriter'
   description_photo: portfolio.jpg
   email: kjnunn30@gmail.com
