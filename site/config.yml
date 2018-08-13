@@ -1,7 +1,6 @@
 baseurl: /
 languageCode: en-GB
 title: Homepage
-googleAnalytics: UA-XXXXXXXX-Y
 params:
   case_studies:
     enable: true
