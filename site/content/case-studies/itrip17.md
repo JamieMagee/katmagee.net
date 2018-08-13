@@ -28,10 +28,12 @@ The challenge was to create an identity for 2017's itrip that was fresh and uniq
 
 Working closely with an art director, we created a bold but playful identity to celebrates who we are, and what we do together: ‘We are here’. It's a simple, confident statement that unites our 500 participants from offices around the globe for one event, as one Designit.  
 
+![We are here (rolling through different languages) ](/img/wearehere_languages_1.gif)
+
 In its simplicity, it can be applied and activated in so many messages and situations. It needed to work for merchandise and practical event communications, through to company messaging and CEO's vision/mission presentation. 
 
 A main feature of the identity are bold ‘we are here to...’ statements, which you can relate to and get behind. It's not a call to action – it's a promise. 
 
-![null](/img/designit_tote_4.jpg)
+![Tote bags reading: Work/Play; We are here to change; Cut the BS; Screw up, learn, try again ](/img/totes-collage.png)
 
-Like the strong 'we are here to...' statements, the verbal identity of the event was bold but playful. We cut the bullshit, to get straight to the good stuff. And we celebrated the diversity of our participants, and the different skills, ideas and perspectives they bring to the mix every day at Designit. 
+Like the strong 'we are here to...' statements, the verbal identity of the event was bold but playful. We cut the bullshit, to get straight to the good stuff. And we celebrated the diversity of our participants, and the different skills, ideas and perspectives they bring to the mix every day at Designit.
