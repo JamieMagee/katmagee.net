@@ -6,7 +6,7 @@
         <p class="summary">{{ .Params.case_summary }}</p>
         {{ if .Params.team | or .Params.roles | or .Params.methods }}
         <div class="case-details">
-            {{ if .Params.team }}
+            {{ if and (.Params.team) (not (in .Params.team "")) }}
             <div class="case-details-item">
                 <p>
                     <strong>Team</strong>
@@ -14,7 +14,7 @@
                     <br>{{ . }} {{end}}
                 </p>
             </div>
-            {{ end }} {{ if .Params.roles }}
+            {{ end }} {{ if and (.Params.roles) (not (in .Params.roles "")) }}
             <div class="case-details-item">
                 <p>
                     <strong>My Role</strong>
@@ -22,7 +22,7 @@
                     <br>{{ . }} {{ end }}
                 </p>
             </div>
-            {{ end }} {{ if .Params.methods }}
+            {{ end }} {{ if and (.Params.methods) (not (in .Params.methods "")) }}
             <div class="case-details-item">
                 <p>
                     <strong>Methods</strong>
