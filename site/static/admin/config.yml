@@ -128,15 +128,12 @@ collections:
         fields:
           - label: Base URL
             name: baseurl
-            widget: string
+            widget: hidden
           - label: Language code
             name: languageCode
-            widget: string
+            widget: hidden
           - label: Title
             name: title
-            widget: string
-          - label: Google analytics code
-            name: googleAnalytics
             widget: string
           - label: Settings
             name: params
