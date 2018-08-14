@@ -22,4 +22,4 @@ I set the direction for the tone of the book. White papers don't have to be bori
 
 ![null](/img/photo-15-04-16-11-33-45.jpg)
 
-We published the book online to spark a conversation on social media, and drive hundreds of views to our website. We printed over a hundred copies for existing and potential clients around the globe – and one for our photographer to do some origami with.
+We [published the book online](https://issuu.com/designit/docs/future_of_cooking) to spark a conversation on social media, and drive hundreds of views to our website. We printed over a hundred copies for existing and potential clients around the globe – and one for our photographer to do some origami with.
