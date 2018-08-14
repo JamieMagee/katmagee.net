@@ -5,7 +5,7 @@ jQuery(function($) {
 });
 $(function() {
   $.scrollIt({
-    topOffset: -70, // offste (in px) for fixed top navigation
+    topOffset: -70,
     easing: 'ease-in-out'
   });
 });
