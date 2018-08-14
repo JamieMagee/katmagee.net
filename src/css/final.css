@@ -602,3 +602,7 @@ section {
   transition: 0.2s ease-in-out;
   border-bottom: 3px solid #49a483;
 }
+
+.fa-stack {
+  color: black;
+}
