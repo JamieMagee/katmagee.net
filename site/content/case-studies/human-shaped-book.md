@@ -1,7 +1,7 @@
 ---
 title: Human-shaped book
 case_subtitle: A Designit manifesto
-description: 'An inspirational but playful manifesto of Designit''s vision and values '
+description: 'An inspirational but playful manifesto for Designit''s vision and values '
 thumbnail: /img/ahs_3.jpg
 case_feature_img: /img/ahs_3.jpg
 case_summary: >-
@@ -20,7 +20,7 @@ I set the direction for the tone of the book. We wanted to inspire our employees
 
 ![It starts here](/img/ahs_1_2.jpg)
 
-I worked with key internal stakeholders from our twelve office around the globe to collect and consolidate their input. From putting pen to paper, to final layout, we finished the book in just three weeks, in time for the company's cross-office inspiration trip.
+I worked with key internal stakeholders from our twelve offices around the globe to collect and consolidate their input, then with a fellow copywriter and art director to bring the book to life. From putting pen to paper to final layout, we went to print in just three weeks, in time for the company's cross-office inspiration trip.
 
 ![#5 Take pride in your work ](/img/ahs_1_0000_dsc06527-2.jpg)
 
