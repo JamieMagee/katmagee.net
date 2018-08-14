@@ -10,7 +10,7 @@ case_summary: >-
   distil Designit's vision and values, and communicate them in a uniquely
   Designit way: A human-shaped book, and ten rules of thumb to live by.
 date: 2018-08-14T05:21:59.331Z
-draft: true
+draft: false
 ---
 Designit had doubled its headcount in the last year, and had been acquired by a much larger multinational IT company. Designit needed to consolidate its culture, and communicate its vision and values internally and externally – without the usual bland corporate vision/mission statement.
 
