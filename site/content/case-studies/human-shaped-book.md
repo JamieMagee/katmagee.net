@@ -26,4 +26,6 @@ I worked with key internal stakeholders from our twelve offices around the globe
 
 Now employees can confidently say what we stand for, and explain it to our clients. HR uses the ten rules of thumb for hiring and performance review benchmarks. We did an initial print run of 500 copies, and have reprinted twice since.
 
+[Read a copy online here](https://issuu.com/designit/docs/human_shaped_world).
+
 ![Get out there, and make change happen](/img/ahs_1_0012_dsc06563-2.jpg)
