@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  site_domain: katnunn.co.uk
 media_folder: site/static/img
 public_folder: img
 display_url: https://katnunn.co.uk
