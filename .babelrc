@@ -1,7 +1,15 @@
 {
-  "presets": ["es2015", "react"],
+  "presets": [
+    [
+      "@babel/env",
+      {
+        "useBuiltIns": "entry"
+      }
+    ],
+    "@babel/react"
+  ],
   "plugins": [
-    "syntax-object-rest-spread",
-    "transform-object-rest-spread"
+    "@babel/plugin-syntax-object-rest-spread",
+    "@babel/plugin-proposal-object-rest-spread"
   ]
 }
