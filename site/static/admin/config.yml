@@ -2,7 +2,7 @@ backend:
   name: git-gateway
 media_folder: site/static/img
 public_folder: img
-display_url: https://new.katnunn.co.uk
+display_url: https://katnunn.co.uk
 collections:
   - label: Case studies
     name: casestudies
