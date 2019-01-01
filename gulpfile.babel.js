@@ -30,13 +30,6 @@ gulp.task('hugo', cb => buildSite(cb));
 gulp.task('hugo-preview', cb =>
   buildSite(cb, ['--buildDrafts', '--buildFuture'])
 );
-gulp.task('build', ['css', 'js', 'hugo', 'imagemin']);
-gulp.task('build-preview', [
-  'css',
-  'js',
-  'hugo-preview',
-  'imagemin'
-]);
 
 gulp.task('css', () =>
   gulp
@@ -63,35 +56,14 @@ gulp.task('js', cb => {
   });
 });
 
-gulp.task('svg', () => {
-  const svgs = gulp
+gulp.task('svg', () =>
+  gulp
     .src('site/static/svg/*.svg')
     .pipe(svgmin())
-    .pipe(svgstore({ inlineSvg: true }));
+    .pipe(svgstore({ inlineSvg: true }))
+);
 
-  function fileContents(filePath, file) {
-    return file.contents.toString();
-  }
-
-  return gulp
-    .src('site/layouts/partials/svg.html')
-    .pipe(inject(svgs, { transform: fileContents }))
-    .pipe(gulp.dest('site/layouts/partials/'));
-});
-
-gulp.task('server', ['hugo', 'css', 'js', 'svg'], () => {
-  browserSync.init({
-    server: {
-      baseDir: './dist'
-    }
-  });
-  gulp.watch('./src/js/**/*.js', ['js']);
-  gulp.watch('./src/css/**/*.css', ['css']);
-  gulp.watch('./site/static/img/icons-*.svg', ['svg']);
-  gulp.watch('./site/**/*', ['hugo']);
-});
-
-gulp.task('imagemin', function() {
+gulp.task('imagemin', function () {
   return gulp
     .src(['site/static/img/*.{gif,png,jpg}'])
     .pipe(
@@ -127,6 +99,26 @@ gulp.task('imagemin', function() {
     )
     .pipe(gulp.dest('dist/img'));
 });
+
+gulp.task('build', gulp.series('css', 'js', 'hugo', 'imagemin'));
+gulp.task('build-preview', gulp.series(
+  'css',
+  'js',
+  'hugo-preview',
+  'imagemin'
+));
+
+gulp.task('server', gulp.series('hugo', 'css', 'js', 'svg', () => {
+  browserSync.init({
+    server: {
+      baseDir: './dist'
+    }
+  });
+  gulp.watch('./src/js/**/*.js', gulp.series('js'));
+  gulp.watch('./src/css/**/*.css', gulp.series('css'));
+  gulp.watch('./site/static/img/icons-*.svg', gulp.series('svg'));
+  gulp.watch('./site/**/*', gulp.series('hugo'));
+}));
 
 function buildSite(cb, options) {
   const args = options ? defaultArgs.concat(options) : defaultArgs;
