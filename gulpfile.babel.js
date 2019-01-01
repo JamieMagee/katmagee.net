@@ -19,9 +19,7 @@ import webpack from 'webpack';
 import webpackConfig from './webpack.conf';
 
 const browserSync = BrowserSync.create();
-const hugoBin = `./bin/hugo.${
-  process.platform === 'win32' ? 'exe' : process.platform
-}`;
+const hugoBin = './bin/hugo';
 const defaultArgs = ['-d', '../dist', '-s', 'site'];
 
 if (process.env.DEBUG) {
