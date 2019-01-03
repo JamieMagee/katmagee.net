@@ -12,7 +12,7 @@ case_summary: >-
 button_links:
   - {}
 date: 2019-01-03T14:38:36.971Z
-draft: true
+draft: false
 ---
 I developed the in-system copy and training materials for our new company-wide Enterprise Resource Management system, Workday.
 
