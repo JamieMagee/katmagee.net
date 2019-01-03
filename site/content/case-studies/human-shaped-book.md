@@ -12,7 +12,7 @@ case_summary: >-
 date: 2018-08-14T05:21:59.331Z
 draft: false
 ---
-Designit had doubled its headcount in the last year, and had been acquired by a much larger multinational IT company. Designit needed to consolidate its culture, and communicate its vision and values internally and externally – without the usual bland corporate vision/mission statement.
+Designit, a global strategic design firm, had doubled its headcount in the last year, and had been acquired by a much larger multinational IT company. Designit needed to consolidate its culture, and communicate its vision and values internally and externally – without the usual bland corporate vision/mission statement.
 
 ![A human-shaped world is where everything is designed around real human needs](/img/ahs_1_1.jpg)
 
