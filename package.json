@@ -32,7 +32,7 @@
     "eslint": "^5.11.1",
     "exports-loader": "^0.7.0",
     "gulp-babel": "^8.0.0",
-    "gulp-cache": "^1.0.2",
+    "gulp-cache": "^1.1.1",
     "gulp-imagemin": "^4.1.0",
     "gulp-inject": "^5.0.2",
     "gulp-postcss": "^8.0.0",
