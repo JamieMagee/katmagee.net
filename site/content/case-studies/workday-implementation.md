@@ -9,8 +9,7 @@ case_summary: >-
   Enterprise Resource Management system, Workday. I simplified and humanised the
   technical language to help more than 500 employees learn and adopt the new
   system.
-button_links:
-  - {}
+button_links: []
 date: 2019-01-03T14:38:36.971Z
 draft: false
 ---
