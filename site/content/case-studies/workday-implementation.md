@@ -2,8 +2,8 @@
 title: Workday implementation
 case_subtitle: UX copy and training materials
 description: Simplifying and humanising a complicated IT system
-thumbnail: /img/workdaylogo.jpg
-case_feature_img: /img/workdaylogo.jpg
+thumbnail: /img/logo_wday.png
+case_feature_img: /img/logo_wday.png
 case_summary: >-
   In-system UX copy and training materials for Designit's new company-wide
   Enterprise Resource Management system, Workday. I simplified and humanised the
