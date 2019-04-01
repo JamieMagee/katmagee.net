@@ -13,7 +13,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "netlify-cms": "^2.5.1"
+    "netlify-cms": "^2.9.0"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
