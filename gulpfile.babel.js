@@ -71,7 +71,7 @@ gulp.task('imagemin', function () {
         imagemin([
           imageminPngquant({
             speed: 1,
-            quality: 98
+            quality: [0.6, 1]
           }),
           imageminZopfli({
             more: true
