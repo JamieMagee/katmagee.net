@@ -18,7 +18,7 @@ I helped the product design team research ten key global trends, and how they wo
 
 ![Eating insects: How might we introduce alternative foods such as insects into the Western diet – to eat and to grow? ](/img/photo-15-04-16-11-29-32-copy.jpg)
 
-I set the direction for the tone of the book. White papers don't have to be boring. They should be inspirational – and actually enjoyable to read. We let our imaginations run wild, while explaining bold future concepts in simple, down to earth terms with a dry sense of humour.
+White papers don't have to be boring. They should be inspirational – and actually enjoyable to read. I set the direction for the tone of the book. We let our imaginations run wild, while explaining bold future concepts in simple, down to earth terms with a dry sense of humour.
 
 ![null](/img/photo-15-04-16-11-33-45.jpg)
 
