@@ -8,8 +8,9 @@ params:
     title: My work
   description: 'Portfolio of Kat Nunn, copywriter'
   description_photo: /img/katprofilesquare.jpg
+  dribbble: .
   email: kjnunn30@gmail.com
-  facebook: ''
+  facebook: .
   favicon: /img/favicon.png
   footer:
     enable: true
@@ -17,11 +18,10 @@ params:
     avatar: /img/katprofilesquare.jpg
     enable: true
     resume: /img/cv-final.pdf
-    subtitle: "Hi! I'm Kat, a copywriter, editor and problem solver. "
+    subtitle: 'Hi! I''m Kat, a copywriter, editor and certified word nerd. '
     text: >-
-      I’m a native English speaker, human-centred writer, and certified word
-      nerd, who’s passionate about creating better experiences for people with
-      clear, meaningful and effective copy.
+      I write engaging, meaningful and effective copy. And it all starts with
+      what the reader needs to know – not what the writer wants to say. 
 
 
       After graduating from Girton College, Cambridge, I moved to Copenhagen to
