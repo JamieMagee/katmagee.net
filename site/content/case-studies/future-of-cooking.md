@@ -1,5 +1,5 @@
 ---
-title: Future of cooking
+title: The future of cooking
 case_subtitle: White paper
 description: 'Research, copywriting and editing for a white paper on the future of cooking '
 thumbnail: /img/photo-15-04-16-11-19-06-copy.jpg
