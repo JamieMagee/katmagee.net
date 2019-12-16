@@ -160,12 +160,14 @@ collections:
                 widget: string
               - label: Facebook
                 name: facebook
+                required: false
                 widget: string
               - label: Twitter
                 name: twitter
                 widget: string
               - label: Dribbble
                 name: dribbble
+                required: false
                 widget: string
               - label: Linkedin
                 name: linkedin

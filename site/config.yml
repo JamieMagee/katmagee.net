@@ -8,9 +8,7 @@ params:
     title: My work
   description: 'Portfolio of Kat Nunn, copywriter'
   description_photo: /img/katprofilesquare.jpg
-  dribbble: .
   email: kjnunn30@gmail.com
-  facebook: .
   favicon: /img/favicon.png
   footer:
     enable: true
