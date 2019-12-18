@@ -1,16 +1,14 @@
 ---
 title: Human-shaped book
-case_subtitle: 'Vision, mission and values '
-description: >-
-  An inspirational but playful manifesto for Designit's vision, mission and
-  values 
+case_subtitle: 'Vision and values '
+description: 'An inspirational but playful manifesto for Designit''s vision and values '
 thumbnail: /img/ahs_3.jpg
 case_feature_img: /img/ahs_3.jpg
 case_summary: >-
   An inspirational but playful manifesto to consolidate Designit's culture after
   a period of upheaval. I worked closely with key internal stakeholders to
-  distil Designit's vision, mission and values, and communicate them in a
-  uniquely Designit way: A human-shaped book, and ten rules of thumb to live by.
+  distil Designit's vision and values, and communicate them in a uniquely
+  Designit way: A human-shaped book, and ten rules of thumb to live by.
 date: 2018-08-14T05:21:59.331Z
 draft: false
 ---
@@ -22,12 +20,14 @@ I set the direction for the tone of the book. We wanted to inspire our employees
 
 ![It starts here](/img/ahs_1_2.jpg)
 
-I worked with key internal stakeholders from our twelve offices around the globe to collect and consolidate their input, then with a fellow copywriter and art director to bring the book to life. From putting pen to paper to final layout, we went to print in just three weeks, in time for the company's cross-office inspiration trip.
+I worked with key internal stakeholders from our twelve offices around the globe to collect and consolidate their input, then with a fellow copywriter and art director to bring the book to life. From putting pen to paper to final layout, we went to print in just three weeks, in time for the Designit's annual company event.
 
 ![#5 Take pride in your work ](/img/ahs_1_0000_dsc06527-2.jpg)
 
-Now employees can confidently say what we stand for, and explain it to our clients. HR uses the ten rules of thumb for hiring and performance review benchmarks. We did an initial print run of 500 copies, and have reprinted twice since.
+Now employees can confidently say what we stand for, and explain it to our clients. HR uses the ten rules of thumb for hiring and performance review benchmarks. We did an initial print run of 500 copies, and have reprinted multiple times since.
 
 [Read a copy online here](https://issuu.com/designit/docs/human_shaped_world).
+
+[Hear what other people think of it](https://corporate-rebels.com/no-assholes-in-the-workplace-please/). 
 
 ![Get out there, and make change happen](/img/ahs_1_0012_dsc06563-2.jpg)
