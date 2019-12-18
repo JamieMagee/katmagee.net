@@ -24,7 +24,7 @@ I worked with key internal stakeholders from our twelve offices around the globe
 
 ![#5 Take pride in your work ](/img/ahs_1_0000_dsc06527-2.jpg)
 
-Now employees can confidently say what we stand for, and explain it to our clients. HR uses the ten rules of thumb for hiring and performance review benchmarks. We did an initial print run of 500 copies, and have reprinted multiple times since.
+Now employees can confidently say what we stand for, and explain it to our clients. We did an initial print run of 500 copies, and have reprinted multiple times since. But the values live and breath beyond the printed page. The ten rules of thumb have been integrated all across the company, from hiring and performance review benchmarks to badass office decoration. 
 
 [Read a copy online here](https://issuu.com/designit/docs/human_shaped_world).
 
