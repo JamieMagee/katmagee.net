@@ -9,8 +9,8 @@ case_feature_img: /img/ahs_3.jpg
 case_summary: >-
   An inspirational but playful manifesto to consolidate Designit's culture after
   a period of upheaval. I worked closely with key internal stakeholders to
-  distil Designit's vision and values, and communicate them in a uniquely
-  Designit way: A human-shaped book, and ten rules of thumb to live by.
+  distil Designit's vision, mission and values, and communicate them in a
+  uniquely Designit way: A human-shaped book, and ten rules of thumb to live by.
 date: 2018-08-14T05:21:59.331Z
 draft: false
 ---
