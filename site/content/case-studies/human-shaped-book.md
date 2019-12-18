@@ -1,6 +1,6 @@
 ---
 title: Human-shaped book
-case_subtitle: A Designit manifesto
+case_subtitle: 'Vision, mission and values '
 description: 'An inspirational but playful manifesto for Designit''s vision and values '
 thumbnail: /img/ahs_3.jpg
 case_feature_img: /img/ahs_3.jpg
