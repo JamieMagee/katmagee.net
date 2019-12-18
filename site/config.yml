@@ -17,7 +17,21 @@ params:
     enable: true
     resume: /img/cv-final.pdf
     subtitle: 'Hi! I''m Kat, a copywriter, editor and certified word nerd. '
-    text: "I believe engaging, meaningful and effective copy starts with what the reader needs to know – not what the writer wants to say. \n\nI currently work as a copywriter with CBC, the specialist B2B brand and marketing consultancy. I help our clients across the pharma, marine and tech industries explain complicated ideas in simple, compelling ways. \r\n\nMy background is in ancient languages and linguistics, with a degree from Girton College, Cambridge. (After Ancient Greek, even the most technical engineering jargon feels easy to translate.) Since moving to Copenhagen in 2014, I've experienced everything from small tech startup to international design agency."
+    text: >-
+      I believe engaging, meaningful and effective copy starts with what the
+      reader needs to know – not what the writer wants to say. 
+
+
+      I currently work as a copywriter with CBC, the specialist B2B brand and
+      marketing consultancy. I help our clients across the pharma, marine and
+      tech industries explain complicated ideas in simple, compelling ways. 
+
+
+      My background is in ancient languages and linguistics, with a degree from
+      Girton College, Cambridge. (After Ancient Greek, even the most technical
+      engineering jargon feels easy to translate.) Since moving to Copenhagen in
+      2014, I've gained experience with everything from small tech startup to
+      international design agency.
   linkedin: 'https://www.linkedin.com/in/katnunn/'
   logo: /img/logo.png
   medium: katnunn
