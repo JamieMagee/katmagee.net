@@ -1,6 +1,9 @@
 name: github pages
 
 on:
+  pull_request:
+    branches:
+      - master
   push:
     branches:
       - master
@@ -21,6 +24,7 @@ jobs:
         run: yarn build
 
       - name: Deploy
+        if: github.event == 'push'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
