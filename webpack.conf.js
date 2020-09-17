@@ -17,12 +17,6 @@ export default {
     ]
   },
 
-  plugins: [
-    new webpack.ProvidePlugin({
-      fetch: 'exports-loader?self.fetch!whatwg-fetch/dist/fetch.umd'
-    })
-  ],
-
   context: path.join(__dirname, 'src'),
   entry: {
     cms: ['./js/cms']
