@@ -29,7 +29,7 @@
     "browser-sync": "2.26.12",
     "cssnano": "4.1.10",
     "eslint-plugin-import": "2.22.0",
-    "eslint": "7.8.0",
+    "eslint": "7.10.0",
     "exports-loader": "1.1.0",
     "gulp-babel": "8.0.0",
     "gulp-cache": "1.1.3",
