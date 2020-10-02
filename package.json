@@ -42,7 +42,7 @@
     "gulp": "4.0.2",
     "imagemin-giflossy": "5.1.10",
     "imagemin-mozjpeg": "9.0.0",
-    "imagemin-pngquant": "8.0.0",
+    "imagemin-pngquant": "9.0.1",
     "imagemin-zopfli": "6.0.0",
     "imports-loader": "1.1.0",
     "postcss-cssnext": "3.1.0",
