@@ -6460,14 +6460,14 @@ imagemin-svgo@^7.0.0:
     is-svg "^3.0.0"
     svgo "^1.0.5"
 
-imagemin-zopfli@6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/imagemin-zopfli/-/imagemin-zopfli-6.0.0.tgz#2070a966da7288b347da37786b3afee60df62ee1"
-  integrity sha512-vmhMzV7m5o6QxgHpIDaBbKx/exWdIylwxV0hrxKECnPmt072A2qPtM8HCHu9EbrQctFk3KR8kN+cWFnk6EwzKQ==
+imagemin-zopfli@7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/imagemin-zopfli/-/imagemin-zopfli-7.0.0.tgz#a44daa3bb80e2620cd1dc883d823b20b4d3788d6"
+  integrity sha512-nmffj58rVb0O3AlCZLBBVKGyZ5MYPZZfKxUhvA7bwPGougHl/F7EUKSse9jkgXjdvtJYG2ojJeh5N67mYgBM9g==
   dependencies:
     exec-buffer "^3.0.0"
-    is-png "^1.0.0"
-    zopflipng-bin "^5.0.0"
+    is-png "^2.0.0"
+    zopflipng-bin "^6.0.0"
 
 imagemin@^7.0.0:
   version "7.0.0"
@@ -6989,11 +6989,6 @@ is-plain-object@^2.0.1, is-plain-object@^2.0.3, is-plain-object@^2.0.4:
   integrity sha512-h5PpgXkWitc38BBMYawTYMWJHFZJVnBquFE57xFpjB8pJFiF6gZ+bU+WyI/yqXiFR5mdLsgYNaPe8uao6Uv9Og==
   dependencies:
     isobject "^3.0.1"
-
-is-png@^1.0.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/is-png/-/is-png-1.1.0.tgz#d574b12bf275c0350455570b0e5b57ab062077ce"
-  integrity sha1-1XSxK/J1wDUEVVcLDltXqwYgd84=
 
 is-png@^2.0.0:
   version "2.0.0"
@@ -13568,10 +13563,10 @@ yeast@0.1.2:
   resolved "https://registry.yarnpkg.com/yeast/-/yeast-0.1.2.tgz#008e06d8094320c372dbc2f8ed76a0ca6c8ac419"
   integrity sha1-AI4G2AlDIMNy28L47XagymyKxBk=
 
-zopflipng-bin@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/zopflipng-bin/-/zopflipng-bin-5.0.0.tgz#e5f1ce3486032a5348cc099293f083fb4c061fa5"
-  integrity sha512-8AWRT/CPkIBEup96LSiVdhLT4n7b4bpzY0BcQ26OjdRnjODa+JWNK55Ii63CiOEyqObPSwjLifuUI5ooFmjiGQ==
+zopflipng-bin@^6.0.0:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/zopflipng-bin/-/zopflipng-bin-6.0.1.tgz#a91ef81bdba18e151dda3f34df23d3ecd7d04a1f"
+  integrity sha512-+aybvXv/xafL6I67uSH5yLHrSy4/OaSOV9tniw4yZFIHpINXUcctVHE/WzHxOONrL2GHzJ8Fd4iDrNyaS6TVbg==
   dependencies:
     bin-build "^3.0.0"
     bin-wrapper "^4.0.1"
