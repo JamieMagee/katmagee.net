@@ -45,3 +45,8 @@ jobs:
           publish_dir: dist
           cname: katnunn.co.uk
           force_orphan: true
+
+      - name: Save to Wayback Machine
+        uses: JamieMagee/wayback@v1.2.0
+        with:
+          url: katnunn.co.uk
