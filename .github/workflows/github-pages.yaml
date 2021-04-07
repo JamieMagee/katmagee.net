@@ -47,6 +47,6 @@ jobs:
           force_orphan: true
 
       - name: Save to Wayback Machine
-        uses: JamieMagee/wayback@v1.3.0
+        uses: JamieMagee/wayback@v1.3.1
         with:
           url: katnunn.co.uk
