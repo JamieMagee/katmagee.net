@@ -8,10 +8,8 @@ import gulp from 'gulp';
 import gutil from 'gulp-util';
 import imagemin from 'gulp-imagemin';
 import imageminGiflossy from 'imagemin-giflossy';
-import imageminMozjpeg from 'imagemin-mozjpeg';
 import imageminPngquant from 'imagemin-pngquant';
 import imageminZopfli from 'imagemin-zopfli';
-import inject from 'gulp-inject';
 import postcss from 'gulp-postcss';
 import svgmin from 'gulp-svgmin';
 import svgstore from 'gulp-svgstore';
@@ -26,8 +24,8 @@ if (process.env.DEBUG) {
   defaultArgs.unshift('--debug');
 }
 
-gulp.task('hugo', cb => buildSite(cb));
-gulp.task('hugo-preview', cb =>
+gulp.task('hugo', (cb) => buildSite(cb));
+gulp.task('hugo-preview', (cb) =>
   buildSite(cb, ['--buildDrafts', '--buildFuture'])
 );
 
@@ -39,7 +37,7 @@ gulp.task('css', () =>
     .pipe(browserSync.stream())
 );
 
-gulp.task('js', cb => {
+gulp.task('js', (cb) => {
   const myConfig = Object.assign({}, webpackConfig);
 
   webpack(myConfig, (err, stats) => {
@@ -48,7 +46,7 @@ gulp.task('js', cb => {
       '[webpack]',
       stats.toString({
         colors: true,
-        progress: true
+        progress: true,
       })
     );
     browserSync.reload();
@@ -71,29 +69,27 @@ gulp.task('imagemin', function () {
         imagemin([
           imageminPngquant({
             speed: 1,
-            quality: [0.6, 1]
+            quality: [0.6, 1],
           }),
           imageminZopfli({
-            more: true
+            more: true,
           }),
           imageminGiflossy({
             optimizationLevel: 3,
             optimize: 3,
-            lossy: 2
+            lossy: 2,
           }),
           imagemin.svgo({
             plugins: [
               {
-                removeViewBox: false
-              }
-            ]
+                removeViewBox: false,
+              },
+            ],
           }),
-          imagemin.jpegtran({
-            progressive: true
+          imagemin.mozjpeg({
+            progressive: true,
+            quality: 60,
           }),
-          imageminMozjpeg({
-            quality: 60
-          })
         ])
       )
     )
@@ -101,29 +97,30 @@ gulp.task('imagemin', function () {
 });
 
 gulp.task('build', gulp.series('css', 'js', 'hugo', 'imagemin'));
-gulp.task('build-preview', gulp.series(
-  'css',
-  'js',
-  'hugo-preview',
-  'imagemin'
-));
+gulp.task(
+  'build-preview',
+  gulp.series('css', 'js', 'hugo-preview', 'imagemin')
+);
 
-gulp.task('server', gulp.series('hugo', 'css', 'js', 'svg', () => {
-  browserSync.init({
-    server: {
-      baseDir: './dist'
-    }
-  });
-  gulp.watch('./src/js/**/*.js', gulp.series('js'));
-  gulp.watch('./src/css/**/*.css', gulp.series('css'));
-  gulp.watch('./site/static/img/icons-*.svg', gulp.series('svg'));
-  gulp.watch('./site/**/*', gulp.series('hugo'));
-}));
+gulp.task(
+  'server',
+  gulp.series('hugo', 'css', 'js', 'svg', () => {
+    browserSync.init({
+      server: {
+        baseDir: './dist',
+      },
+    });
+    gulp.watch('./src/js/**/*.js', gulp.series('js'));
+    gulp.watch('./src/css/**/*.css', gulp.series('css'));
+    gulp.watch('./site/static/img/icons-*.svg', gulp.series('svg'));
+    gulp.watch('./site/**/*', gulp.series('hugo'));
+  })
+);
 
 function buildSite(cb, options) {
   const args = options ? defaultArgs.concat(options) : defaultArgs;
 
-  return cp.spawn(hugoBin, args, { stdio: 'inherit' }).on('close', code => {
+  return cp.spawn(hugoBin, args, { stdio: 'inherit' }).on('close', (code) => {
     if (code === 0) {
       browserSync.reload('notify:false');
       cb();

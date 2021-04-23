@@ -3,7 +3,8 @@
     [
       "@babel/env",
       {
-        "useBuiltIns": "entry"
+        "useBuiltIns": "entry",
+        "corejs": "3.11"
       }
     ],
     "@babel/react"
