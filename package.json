@@ -48,7 +48,7 @@
     "imports-loader": "2.0.0",
     "postcss": "8.2.15",
     "postcss-cssnext": "3.1.0",
-    "postcss-import": "14.0.1",
+    "postcss-import": "14.0.2",
     "webpack": "5.36.2"
   }
 }
