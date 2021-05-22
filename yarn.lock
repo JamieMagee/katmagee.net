@@ -3066,10 +3066,10 @@ color@^2.0.1:
     color-convert "^1.9.1"
     color-string "^1.5.2"
 
-colord@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.npmjs.org/colord/-/colord-1.7.0.tgz"
-  integrity sha512-/9I83NehU/HvAKGTSEZrFFEubYHknzGMpSDOee2JBTqk42qbYd+EOKfN22gmh7kysTwdpNfbJGgfUiqGkLul0A==
+colord@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.npmjs.org/colord/-/colord-2.0.0.tgz"
+  integrity sha512-WMDFJfoY3wqPZNpKUFdse3HhD5BHCbE9JCdxRzoVH+ywRITGOeWAHNkGEmyxLlErEpN9OLMWgdM9dWQtDk5dog==
 
 colorette@^1.2.2:
   version "1.2.2"
@@ -3476,15 +3476,15 @@ cssesc@^3.0.0:
   resolved "https://registry.npmjs.org/cssesc/-/cssesc-3.0.0.tgz"
   integrity sha512-/Tb/JcjK111nNScGob5MNtsntNM1aCNUDipB/TkwZFhyDrrE47SOx/18wF2bbjgc3ZzCSKW1T5nt5EbFoAz/Vg==
 
-cssnano-preset-default@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.npmjs.org/cssnano-preset-default/-/cssnano-preset-default-5.1.0.tgz"
-  integrity sha512-VTO0WAlrEsU0u+A4RwALRs5zSVnD23WgYO8Np3HowBMZTqWIP1GvIWWzs9zZmjNgeL8U+70megRZymb+1yGg/w==
+cssnano-preset-default@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.npmjs.org/cssnano-preset-default/-/cssnano-preset-default-5.1.1.tgz"
+  integrity sha512-kAhR71Tascmnjlhl4UegGA3KGGbMLXHkkqVpA9idsRT1JmIhIsz1C3tDpBeQMUw5EX5Rfb1HGc/PRqD2AFk3Vg==
   dependencies:
     css-declaration-sorter "^6.0.3"
     cssnano-utils "^2.0.1"
     postcss-calc "^8.0.0"
-    postcss-colormin "^5.1.0"
+    postcss-colormin "^5.1.1"
     postcss-convert-values "^5.0.1"
     postcss-discard-comments "^5.0.1"
     postcss-discard-duplicates "^5.0.1"
@@ -3516,13 +3516,13 @@ cssnano-utils@^2.0.1:
   resolved "https://registry.npmjs.org/cssnano-utils/-/cssnano-utils-2.0.1.tgz"
   integrity sha512-i8vLRZTnEH9ubIyfdZCAdIdgnHAUeQeByEeQ2I7oTilvP9oHO6RScpeq3GsFUVqeB8uZgOQ9pw8utofNn32hhQ==
 
-cssnano@5.0.3:
-  version "5.0.3"
-  resolved "https://registry.npmjs.org/cssnano/-/cssnano-5.0.3.tgz"
-  integrity sha512-Ga/a+IA6U0F9+MNmqrXgwn1A3btY5jFkla2iurL7i9PTmQmMu2Kc99W9a8KSxT8iLV0aoI+Q5Q9i3SpVAVNnrQ==
+cssnano@5.0.4:
+  version "5.0.4"
+  resolved "https://registry.npmjs.org/cssnano/-/cssnano-5.0.4.tgz"
+  integrity sha512-I+fDW74CJ4yb31765ov9xXe70XLZvFTXjwhmA//VgAAuSAU34Oblbe94Q9zffiCX1VhcSfQWARQnwhz+Nqgb4Q==
   dependencies:
     cosmiconfig "^7.0.0"
-    cssnano-preset-default "^5.1.0"
+    cssnano-preset-default "^5.1.1"
     is-resolvable "^1.1.0"
 
 csso@^3.5.1:
@@ -9132,13 +9132,13 @@ postcss-color-rgba-fallback@^3.0.0:
     postcss-value-parser "^3.3.0"
     rgb-hex "^2.1.0"
 
-postcss-colormin@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.npmjs.org/postcss-colormin/-/postcss-colormin-5.1.0.tgz"
-  integrity sha512-5s+VNfQ5CsR6yvBc6Tc8NK9cxb/c8sA547zy+8ofL04gs/GygmOcVZt2s6jJn7TvntAw0Bp6MDpq4bd51EPwdw==
+postcss-colormin@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.npmjs.org/postcss-colormin/-/postcss-colormin-5.1.1.tgz"
+  integrity sha512-SyTmqKKN6PyYNeeKEC0hqIP5CDuprO1hHurdW1aezDyfofDUOn7y7MaxcolbsW3oazPwFiGiY30XRiW1V4iZpA==
   dependencies:
     browserslist "^4.16.0"
-    colord "^1.7.0"
+    colord "^2.0.0"
     postcss-value-parser "^4.1.0"
 
 postcss-convert-values@^5.0.1:
