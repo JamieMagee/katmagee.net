@@ -1,26 +1,31 @@
 ---
-title: Human-shaped book
-case_subtitle: 'Vision and values '
-description: 'An inspirational but playful manifesto for Designit''s vision and values '
+title: A human-shaped world
+case_subtitle: "Vision and values "
+description: "An inspirational but playful manifesto for Designit's vision and values "
 thumbnail: /img/ahs_3.jpg
 case_feature_img: /img/ahs_3.jpg
-case_summary: >-
-  An inspirational but playful manifesto to consolidate Designit's culture after
-  a period of upheaval. I worked closely with key internal stakeholders to
-  distil Designit's vision and values, and communicate them in a uniquely
-  Designit way: A human-shaped book, and ten rules of thumb to live by.
+case_summary: "Designit needed to consolidate its culture after a period of
+  upheaval. I worked closely with key internal stakeholders to distill the
+  company's vision and values, and communicate them in a uniquely Designit way:
+  Ten rules of thumb to live by to build a human-shaped world. "
+testimonial: "\"We don't have a dress code, but we do have strict no asshole policy.\""
 date: 2018-08-14T05:21:59.331Z
-draft: false
+draft: true
 ---
-Designit, a global strategic design firm, had doubled its headcount in the last year, and had been acquired by a much larger multinational IT company. Designit needed to consolidate its culture, and communicate its vision and values internally and externally – without the usual bland corporate vision/mission statement.
+Designit is a global strategic design agency. In 2015, Designit had doubled its headcount in just one year, opened new offices in new regions, and was acquired by Indian multinational IT company Wipro.
+
+To ensure a succesful acquisition and support further growth, Designit needed to consolidate its unique culture and communicate its vision and values internally and externally. But a traditional corporate vision/mission statement just would not fit with Designit's culture....
 
 ![A human-shaped world is where everything is designed around real human needs](/img/ahs_1_1.jpg)
 
-I set the direction for the tone of the book. We wanted to inspire our employees and clients – not with talk of hopes and dreams, but by lighting a fire under their ass. We cut the BS and corporate jargon and got to the point, while having some fun along the way.
+I collected and consolidated input from key internal stakeholders from Designit's twelve offices around the globe. I then worked closely with a core steering group, including the founder and CEO, to define Designit's vision for a human-shaped world, and the shared values needed to achieve this. 
 
 ![It starts here](/img/ahs_1_2.jpg)
 
-I worked with key internal stakeholders from our twelve offices around the globe to collect and consolidate their input, then with a fellow copywriter and art director to bring the book to life. From putting pen to paper to final layout, we went to print in just three weeks, in time for the Designit's annual company event.
+\
+It was my responsibility to set the right tone for the book. We wanted to inspire our employees and clients – not with talk of hopes and dreams, but by lighting a fire under their ass. We cut the BS and corporate jargon and got to the point, while having some fun along the way.
+
+From putting pen to paper to final layout, we went to print in just three weeks, in time for Designit's annual company event.
 
 ![#5 Take pride in your work ](/img/ahs_1_0000_dsc06527-2.jpg)
 
