@@ -10,24 +10,24 @@ params:
   process:
     enable: true
     subtitle: I can help you with...
-    title: "Need a writer? "
+    title: Skills
   twitter: "@k_j_magee"
   favicon: /img/favicon.png
   medium: kjmagee
   case_studies:
     enable: true
     subtitle: Check out some of my previous projects
-    title: "Need inspiration? "
+    title: Work
   hero:
     avatar: /img/katprofilesquare.jpg
     enable: true
     resume: img/kat-magee-cv.pdf
     subtitle: "Hi! I'm Kat, a copywriter, content strategist, and certified word nerd. "
     text: >-
-      <!--StartFragment-->
-
-
-      Originally from the UK, I studied ancient languages and linguistics at the University of Cambridge. After graduating, I moved to Copenhagen, Denmark, where I spent seven years helping international companies ace their brand, marketing, and communications.
+      Originally from the UK, I studied ancient languages and linguistics at the
+      University of Cambridge. After graduating, I moved to Copenhagen, Denmark,
+      where I spent seven years helping international companies ace their brand,
+      marketing, and communications.
 
 
       I've brought my hustle to a start-up. Helped an international design firm find the story, values, and voice behind its brand. Guided new users through onboardings. Interviewed thought leaders on everything from self-driving cars to recombinant insulin. And given countless PDFs a final (final!) proofread.
