@@ -2,44 +2,39 @@ baseurl: /
 languageCode: en-GB
 title: Homepage
 params:
+  nav:
+    enable: true
+  logo: /img/logo.png
+  theme_color: "#49a483"
+  description_photo: /img/katprofilesquare.jpg
+  process:
+    enable: false
+    subtitle: Full Process Design
+    title: My Process
+  twitter: "@k_j_magee"
+  favicon: /img/favicon.png
+  medium: kjmagee
   case_studies:
     enable: true
     subtitle: Case studies and writing samples
     title: My work
-  description: 'Portfolio of Kat Nunn, copywriter'
-  description_photo: /img/katprofilesquare.jpg
-  email: kjnunn30@gmail.com
-  favicon: /img/favicon.png
-  footer:
-    enable: true
   hero:
     avatar: /img/katprofilesquare.jpg
     enable: true
-    resume: /img/cv-final.pdf
-    subtitle: 'Hi! I''m Kat, a copywriter, editor and certified word nerd. '
+    resume: img/kat-magee-cv.pdf
+    subtitle: "Hi! I'm Kat, a copywriter, content strategist, and certified word nerd. "
     text: >-
       I believe engaging, meaningful and effective copy starts with what the
       reader needs to know – not what the writer wants to say. 
 
 
-      I currently work as a copywriter with CBC, the specialist B2B brand and
-      marketing consultancy. I help our clients across the pharma, marine and
-      tech industries explain complicated ideas in simple, compelling ways. 
+      I currently work as a copywriter with CBC, the specialist B2B brand and marketing consultancy. I help our clients across the pharma, marine and tech industries explain complicated ideas in simple, compelling ways. 
 
 
-      My background is in ancient languages and linguistics, with a degree from
-      Girton College, Cambridge. (After Ancient Greek, even the most technical
-      engineering jargon feels easy to translate.) Since moving to Copenhagen in
-      2014, I've gained experience with everything from small tech startup to
-      international design agency.
-  linkedin: 'https://www.linkedin.com/in/katnunn/'
-  logo: /img/logo.png
-  medium: katnunn
-  nav:
+      My background is in ancient languages and linguistics, with a degree from Girton College, Cambridge. (After Ancient Greek, even the most technical engineering jargon feels easy to translate.) Since moving to Copenhagen in 2014, I've gained experience with everything from small tech startup to international design agency.
+  footer:
     enable: true
-  process:
-    enable: false
-    subtitle: Full Process Design
-    title: My Process
-  theme_color: '#49a483'
-  twitter: k_j_nunn
+  email: kjmagee30@gmail.com
+  description: Portfolio of Kat Magee, a copywriter with 7+ years' experience
+    writing effective sales, marketing and internal communciations content
+  linkedin: https://www.linkedin.com/in/katmagee/
