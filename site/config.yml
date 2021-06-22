@@ -8,16 +8,16 @@ params:
   theme_color: "#49a483"
   description_photo: /img/katprofilesquare.jpg
   process:
-    enable: false
-    subtitle: Full Process Design
-    title: My Process
+    enable: true
+    subtitle: I can help you with...
+    title: "Need a writer? "
   twitter: "@k_j_magee"
   favicon: /img/favicon.png
   medium: kjmagee
   case_studies:
     enable: true
-    subtitle: Case studies and writing samples
-    title: My work
+    subtitle: Check out some of my previous projects
+    title: "Need inspiration? "
   hero:
     avatar: /img/katprofilesquare.jpg
     enable: true
