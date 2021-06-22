@@ -16,8 +16,8 @@ params:
   medium: kjmagee
   case_studies:
     enable: true
-    subtitle: Check out some of my previous projects
-    title: Work
+    subtitle: Check out my previous projects
+    title: Case studies
   hero:
     avatar: /img/katprofilesquare.jpg
     enable: true
