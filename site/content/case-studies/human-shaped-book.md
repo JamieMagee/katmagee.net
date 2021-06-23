@@ -12,9 +12,9 @@ testimonial: "\"We don't have a dress code, but we do have strict no asshole pol
 date: 2018-08-14T05:21:59.331Z
 draft: true
 ---
-Designit is a global strategic design agency. In 2015, Designit had doubled its headcount in just one year, opened new offices in new regions, and was acquired by Indian multinational IT company Wipro.
+Designit is a global strategic design agency. In 2015, Designit had doubled its headcount in just one year, expanded into new regions, and was acquired by Indian multinational IT company Wipro.
 
-To ensure a succesful acquisition and support further growth, Designit needed to consolidate its unique culture and communicate its vision and values internally and externally. But a traditional corporate vision/mission statement just would not fit with Designit's culture....
+To ensure a successful acquisition and support further growth, Designit needed to consolidate its unique culture and communicate its vision and values internally and externally. However, a traditional corporate vision/mission statement just would not fit with Designit's culture.
 
 ![A human-shaped world is where everything is designed around real human needs](/img/ahs_1_1.jpg)
 
@@ -23,13 +23,13 @@ I collected and consolidated input from key internal stakeholders from Designit'
 ![It starts here](/img/ahs_1_2.jpg)
 
 \
-It was my responsibility to set the right tone for the book. We wanted to inspire our employees and clients – not with talk of hopes and dreams, but by lighting a fire under their ass. We cut the BS and corporate jargon and got to the point, while having some fun along the way.
+It was also my responsibility to set the right tone for the book. We needed to inspire employees and clients – not with talk of hopes and dreams, but by lighting a fire under their asses. We cut the cliches and corporate jargon and got to the point (while having some fun along the way). 
 
-From putting pen to paper to final layout, we went to print in just three weeks, in time for Designit's annual company event.
+From there, I worked closely with a fellow copywriter and a designer to get the book ready in time for Designit's annual company event. (Three weeks!) 
 
 ![#5 Take pride in your work ](/img/ahs_1_0000_dsc06527-2.jpg)
 
-We did an initial print run of 500 copies, and have reprinted multiple times since. But the values live and breathe beyond the printed page. The ten rules of thumb have been integrated all across the company, from hiring and performance review benchmarks to badass office decoration. Now employees can confidently say what we stand for, and explain it to our clients. 
+The book played an integral role at Designit's annual company event. But the values live and breathe beyond the printed page. The ten rules of thumb have been integrated all across the company, from hiring and performance review benchmarks to badass office decoration. Now employees can confidently say what Designit stands for. And the company has continued to successfully expand its business around the globe. 
 
 [Read a copy online here](https://issuu.com/designit/docs/human_shaped_world).
 
