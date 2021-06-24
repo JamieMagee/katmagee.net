@@ -2,8 +2,8 @@
 title: A human-shaped world
 case_subtitle: "Vision and values "
 description: "An inspirational but playful manifesto for Designit's vision and values "
-thumbnail: /img/ahs_3.jpg
-case_feature_img: /img/ahs_3.jpg
+thumbnail: img/ahs_1_0004_dsc06546-2.jpg
+case_feature_img: img/ahs_1_0004_dsc06546-2.jpg
 case_summary: Designit needed to consolidate its culture after a period of
   upheaval. I worked closely with key internal stakeholders to distill the
   company's vision and values, and communicate them in a uniquely Designit way.
@@ -15,18 +15,18 @@ Designit is a global strategic design agency. In 2015, Designit had doubled its 
 
 To ensure a successful acquisition and support further growth, Designit needed to consolidate its unique culture and communicate its vision and values internally and externally. 
 
-![A human-shaped world is where everything is designed around real human needs](/img/ahs_1_1.jpg)
+![A human-shaped world is where everything is designed around real human needs](img/ahs_1_1.jpg)
 
 I collected and consolidated input from key internal stakeholders from Designit's twelve offices around the globe. I then worked closely with a core steering group, including the founder and CEO, to define Designit's vision for a "human-shaped world" and the shared values needed to achieve this. 
 
-![It starts here](/img/ahs_1_2.jpg)
+![Take pride in your work](img/ahs_1_0000_dsc06527-2.jpg)
 
 \
 It was also my responsibility to set the right tone for the book. A traditional corporate vision/mission statement just would not fit with Designit's culture. We needed to explain bold dreams and big ideas in an authentic and relatable way, cutting the cliches and corporate jargon to get straight to the point. We channeled our rebellious streak to light a fire in people's bellies – while still having some fun along the way. 
 
 From initial concept to print deadline, we had just three weeks! So with the concept and tone in place, I worked closely with a fellow copywriter and a graphic designer to get the final copy into layout, brought to life by a visual language that's bold, dynamic, and human. 
 
-![#5 Take pride in your work ](/img/ahs_1_0000_dsc06527-2.jpg)
+![It starts here](img/ahs_1_2.jpg)
 
 The "Human-shaped world" book played an integral role at Designit's annual company event. Soon after, the vision and values were integrated all across the company, from hiring and performance review benchmarks to out-of-the-ordinary office decoration. 
 
@@ -36,4 +36,4 @@ With its vision and values as a foundation, Designit has successfully doubled it
 
 [Or hear what other people think of it](https://corporate-rebels.com/no-assholes-in-the-workplace-please/). 
 
-![Get out there, and make change happen](/img/ahs_1_0012_dsc06563-2.jpg)
+![A human-shaped world](img/ahs_3.jpg)
