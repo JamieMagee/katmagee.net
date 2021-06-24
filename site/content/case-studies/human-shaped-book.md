@@ -17,7 +17,7 @@ To ensure a successful acquisition and support further growth, Designit needed t
 
 ![A human-shaped world is where everything is designed around real human needs](/img/ahs_1_1.jpg)
 
-I collected and consolidated input from key internal stakeholders from Designit's twelve offices around the globe. I then worked closely with a core steering group, including the founder and CEO, to define Designit's vision for a human-shaped world, and the shared values needed to achieve this. 
+I collected and consolidated input from key internal stakeholders from Designit's twelve offices around the globe. I then worked closely with a core steering group, including the founder and CEO, to define Designit's vision for a "human-shaped world" and the shared values needed to achieve this. 
 
 ![It starts here](/img/ahs_1_2.jpg)
 
@@ -28,12 +28,12 @@ From initial concept to print deadline, we had just three weeks! So with the con
 
 ![#5 Take pride in your work ](/img/ahs_1_0000_dsc06527-2.jpg)
 
-The book played an integral role at Designit's annual company event. Soon after, the vision and values were integrated all across the company, from hiring and performance review benchmarks to out-of-the-ordinary office decoration. 
+The "Human-shaped world" book played an integral role at Designit's annual company event. Soon after, the vision and values were integrated all across the company, from hiring and performance review benchmarks to out-of-the-ordinary office decoration. 
 
 With its vision and values as a foundation, Designit has successfully doubled its headcount (again), acquired companies of its own, and continued to grow its global business into new regions. 
 
-[Read a copy online here](https://issuu.com/designit/docs/human_shaped_world).
+[Read Designit's vision and values online](https://issuu.com/designit/docs/human_shaped_world).
 
-[Hear what other people think of it](https://corporate-rebels.com/no-assholes-in-the-workplace-please/). 
+[Or hear what other people think of it](https://corporate-rebels.com/no-assholes-in-the-workplace-please/). 
 
 ![Get out there, and make change happen](/img/ahs_1_0012_dsc06563-2.jpg)
