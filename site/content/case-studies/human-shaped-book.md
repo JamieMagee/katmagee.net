@@ -28,7 +28,9 @@ From initial concept to print deadline, we had just three weeks! So with the con
 
 ![#5 Take pride in your work ](/img/ahs_1_0000_dsc06527-2.jpg)
 
-The book played an integral role at Designit's annual company event. But the values live and breathe beyond the printed page. The ten rules of thumb have been integrated all across the company, from hiring and performance review benchmarks to out-of-the-ordinary office decoration. Now employees can confidently say what Designit stands for. And the company has continued to successfully expand its business around the globe. 
+The book played an integral role at Designit's annual company event. Soon after, the vision and values were integrated all across the company, from hiring and performance review benchmarks to out-of-the-ordinary office decoration. 
+
+With its vision and values as a foundation, Designit has successfully doubled its headcount (again), acquired companies of its own, and continued to grow its global business into new regions. 
 
 [Read a copy online here](https://issuu.com/designit/docs/human_shaped_world).
 
