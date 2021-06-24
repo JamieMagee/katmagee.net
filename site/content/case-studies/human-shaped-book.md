@@ -6,25 +6,25 @@ thumbnail: img/ahs_1_0004_dsc06546-2.jpg
 case_feature_img: img/ahs_1_0004_dsc06546-2.jpg
 case_summary: Designit needed to consolidate its culture after a period of
   upheaval. I worked closely with key internal stakeholders to distill the
-  company's vision and values, and communicate them in a uniquely Designit way.
+  company's vision and values and communicate them in a uniquely Designit way.
 testimonial: "\"We don't have a dress code, but we do have strict no asshole policy.\""
 date: 2018-08-14T05:21:59.331Z
-draft: true
+draft: false
 ---
-Designit is a global strategic design agency. In 2015, Designit had doubled its headcount in just one year, expanded into new regions, and was acquired by Indian multinational IT company Wipro.
+Designit is a global strategic design agency. In 2015, Designit had doubled its headcount in just one year, expanded into new regions, and was acquired by multinational IT company Wipro.
 
 To ensure a successful acquisition and support further growth, Designit needed to consolidate its unique culture and communicate its vision and values internally and externally. 
 
 ![A human-shaped world is where everything is designed around real human needs](img/ahs_1_1.jpg)
 
-I collected and consolidated input from key internal stakeholders from Designit's twelve offices around the globe. I then worked closely with a core steering group, including the founder and CEO, to define Designit's vision for a "human-shaped world" and the shared values needed to achieve this. 
+I collected and consolidated input from key internal stakeholders from Designit's twelve offices around the globe. I then worked closely with a core steering group to define Designit's vision for a "human-shaped world" and the shared values needed to achieve this. 
 
 ![Take pride in your work](img/ahs_1_0000_dsc06527-2.jpg)
 
 \
-It was also my responsibility to set the right tone for the book. A traditional corporate vision/mission statement just would not fit with Designit's culture. We needed to explain bold dreams and big ideas in an authentic and relatable way, cutting the cliches and corporate jargon to get straight to the point. We channeled our rebellious streak to light a fire in people's bellies – while still having some fun along the way. 
+It was also my responsibility to set the right tone for the book. A traditional corporate vision/mission statement just would not fit with Designit's culture. We needed to explain bold dreams and big ideas in an authentic and relatable way. So we cut the cliches and corporate jargon to get straight to the point. And we channeled our rebellious streak to light a fire in people's bellies – while still having some fun along the way.
 
-From initial concept to print deadline, we had just three weeks! So with the concept and tone in place, I worked closely with a fellow copywriter and a graphic designer to get the final copy into layout, brought to life by a visual language that's bold, dynamic, and human. 
+From stakeholder interviews to print deadline, we had just three weeks! So with the concept and tone in place, I worked closely with a fellow copywriter and a graphic designer to get the final copy into layout, brought to life by a visual language that's bold, dynamic, and human. 
 
 ![It starts here](img/ahs_1_2.jpg)
 
