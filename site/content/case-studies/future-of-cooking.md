@@ -22,7 +22,7 @@ Unlike washing up, white papers don't have to be boring. We wanted this book to 
 
 ![Cleaning is boring](img/future-of-cooking-cleaning.png)
 
-We printed over 100 copies, helping our sales teams around the globe spark conversations with new and existing clients and ultimately drive sales.
+After a successful client meeting in Copenhagen, we printed 100 copies to share with our sales team around the globe. The white paper helped them spark conversations with new and existing clients to drive sales.
 
 I also helped the global marketing team adapt this valuable thought leadership content into a series of [blogs](https://medium.designit.com/the-future-of-cooking-part-1-change-drivers-389a75bc4747) and [social media posts](https://www.instagram.com/p/Bul2Iwcg1U2/?utm_source=ig_web_copy_link) to further engage Designit's audience online.
 
