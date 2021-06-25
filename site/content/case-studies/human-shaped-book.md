@@ -7,7 +7,8 @@ case_feature_img: img/ahs_1_0004_dsc06546-2.jpg
 case_summary: Designit needed to consolidate its culture after a period of
   upheaval. I worked closely with key internal stakeholders to distill the
   company's vision and values and communicate them in a uniquely Designit way.
-testimonial: "\"We don't have a dress code, but we do have strict no asshole policy.\""
+testimonial: We don't have a dress code, but we do have strict no asshole policy.
+testimonial_author: "Rule of thumb #8"
 date: 2018-08-14T05:21:59.331Z
 draft: false
 ---
