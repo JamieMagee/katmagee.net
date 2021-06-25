@@ -1,16 +1,15 @@
 ---
 title: The future of cooking
 case_subtitle: White paper
-description: 'Research, copywriting and editing for a white paper on the future of cooking '
+description: "Research, copywriting and editing for a white paper on the future of cooking "
 thumbnail: /img/photo-15-04-16-11-19-06-copy.jpg
 case_feature_img: /img/photo-15-04-16-11-19-06-copy.jpg
-case_summary: >-
-  Research, copywriting and editing for a white paper exploring the future of
-  cooking in the face of climate change, urbanisation and other trends. The book
-  was used globally to spark conversations with current and potential clients,
-  and generate sales.
+case_summary: I researched, wrote, and edited a white paper exploring the future
+  of cooking in the face of climate change, urbanization, and other macro
+  trends. Designit used the book to drive and convert sales leads with new and
+  existing customers around the globe.
 date: 2018-08-14T06:24:30.188Z
-draft: false
+draft: true
 ---
 ![Automated cooking: How might we support people in their modern lifestyle with the perfect degree of automation? ](/img/photo-15-04-16-11-30-56.jpg)
 
