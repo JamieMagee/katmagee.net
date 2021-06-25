@@ -1,24 +1,21 @@
 ---
 title: itrip17
-case_subtitle: Identity concept
-description: >-
-  Identity concept, branding and communications for Designit's biggest event of
-  the year
+case_subtitle: Event branding
+description: Identity and communications for Designit's biggest event of the year
 thumbnail: /img/designit_itrip_2017_0146.jpg
 case_feature_img: /img/designit_itrip_2017_0146.jpg
-case_summary: >-
-  Identity concept, branding and communications for Designit’s biggest event of
-  the year, the inspiration trip. I worked closely together with an art director
-  to create a unique identity for 2017's itrip, that celebrated who we are, and
+case_summary: Branding and communications for Designit’s biggest event of the
+  year, the inspiration trip. I worked closely together with an art director to
+  create a unique identity for 2017's itrip, that celebrated who we are, and
   what we do together.
 team:
-  - ''
+  - ""
 roles:
-  - ''
+  - ""
 methods:
-  - ''
+  - ""
 button_links: []
-date: '2018-08-05T22:13:20+02:00'
+date: 2018-08-05T22:13:20+02:00
 draft: false
 ---
 The challenge was to create an identity for 2017's itrip that was fresh and unique, while still staying true to Designit's brand. The event is not just about getting inspired and learning new things, it's about creating a sense of community and a shared vision for the company for the year ahead.
