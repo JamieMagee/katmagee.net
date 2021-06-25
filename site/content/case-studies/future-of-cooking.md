@@ -9,7 +9,7 @@ case_summary: I researched, wrote, and edited a white paper exploring the future
   of cooking. This thought leadership content helped Designit drive and convert
   sales leads around the globe.
 date: 2018-08-14T06:24:30.188Z
-draft: true
+draft: false
 ---
 Designit is a global strategic design agency. One of its product design teams in Copenhagen wanted to target a potential client with an industry white paper incorporating macro trends and experimental ideas.
 
@@ -17,7 +17,7 @@ I helped the team research ten key global trends with a combination of interview
 
 ![GIY: Grow it yourself](img/photo-15-04-16-11-33-45.jpg)
 
-Unlike washing up, white papers don't have to be boring. We wanted this one to be inspirational (of course), but also fun to read. We let our imaginations run wild as we explored future concepts – but made sure to keep the copy down-to-earth with a sense of humor.
+Unlike washing up, white papers don't have to be boring. We wanted this one to be inspirational (of course) but also fun to read. We let our imaginations run wild as we explored future concepts – but made sure to keep the copy down-to-earth with a sense of humor.
 
 ![Cleaning is boring](img/future-of-cooking-cleaning.png)
 
