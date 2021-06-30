@@ -2,8 +2,8 @@
 title: itrip17
 case_subtitle: Event branding
 description: Identity and communications for Designit's annual employee event
-thumbnail: /img/designit_itrip_2017_0146.jpg
-case_feature_img: /img/designit_itrip_2017_0146.jpg
+thumbnail: img/designit_itrip_2017_0146.jpg
+case_feature_img: img/designit_itrip_2017_0146.jpg
 case_summary: After a year of change and growth, Designit needed branding and
   communications for its annual employee event. I worked closely with an art
   director to create a bold but playful identity that celebrates who we are and
