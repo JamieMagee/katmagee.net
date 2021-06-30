@@ -40,7 +40,5 @@ Of course, a big event like itrip doesn't care what your job title is. We all pi
 
 "Deciding to join the itrip is an easy choice. Because it's something that is unique. It's a piece of magic that happens when we're all together in a room like this." – Kjersti Lund, Chief People Officer
 
-"itrip is a way for us to say we are here. We are together. And it's better together." – Maritza Guaderrama, Managing Director of Designit Spain & Latam
-
 <iframe src="https://player.vimeo.com/video/232671155?color=fbfe34&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/232671155">Watch Designit Inspiration Trip 2017 - Teaser</a> from <a href="https://vimeo.com/designit">Designit</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
