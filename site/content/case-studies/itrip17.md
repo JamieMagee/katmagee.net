@@ -22,19 +22,19 @@ Designit is a global strategic design agency. For the past ten years, Designit h
 
 2017's itrip was more important than ever. After the company's recent acquisition, dramatic growth, and new business strategy, itrip17 was a chance to re-establish a sense of community and a shared vision for the year ahead.
 
-![We are here/We zijn hier/Estamos aquí/Vi er her...](img/wearehere_languages_1.gif)
+![We are here/We zijn hier/Estamos aquí/Vi er her...](/img/wearehere_languages_1.gif)
 
 I worked closely with an art director to create a bold but playful identity to celebrates who we are, and what we do together: "We are here." It's not a call to action – it's a promise.
 
 This simple, confident statement united our 500 participants from offices around the globe for one event, as one Designit. At the same time, its messaging and language variations celebrated the diversity of our participants, and the different skills, ideas, and perspectives they bring to the mix at itrip17 and beyond. 
 
-![Tote bags displaying four different variations on "We are here"](img/img_1175.jpg)
+![Tote bags displaying four different variations on "We are here"](/img/img_1175.jpg)
 
 With the identity in place, I worked as a core member of the itrip17 team to bring the event to life. I helped create everything the event needed, from merchandise and signage through to internal communications and keynote presentations. 
 
 Of course, a big event like itrip doesn't care what your job title is. We all pitched in any way we could, and I also found myself laying out flyers, calling suppliers, and co-creating our team-building event. Whatever it took to make itrip17 a reality! 
 
-![Designit's Founder and CEO, Mikal Hallstrup, gives his keynote presentation in his itrip17 t-shirt](img/5-324.jpg)
+![Designit's Founder and CEO, Mikal Hallstrup, gives his keynote presentation in his itrip17 t-shirt](/img/5-324.jpg)
 
 "The itrip is one of those things that separates us from other agencies. It's where people can come together from all over the world, and share their knowledge and wisdom, and have fun and play together." – Lasse Underbjerg, Lead Designer
 
