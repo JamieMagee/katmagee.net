@@ -1,6 +1,10 @@
 baseurl: /
 languageCode: en-GB
 title: Homepage
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 params:
   nav:
     enable: true
