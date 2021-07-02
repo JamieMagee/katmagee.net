@@ -16,7 +16,7 @@ Designit, a global strategic design agency, was preparing to implement a new Ent
 
 My challenge was to make the existing Workday UX copy easier to understand and more user-friendly. I also needed to introduce the Designit brand voice to support a consistent employee experience across all touchpoints.
 
-![Project management board showing Work(day) in progress](img/workday-planning-board.jpg)
+![Project management board showing our WIP (Workday In Progress)](img/workday-planning-board.jpg)
 
 I could see that Designit’s typically playful tone would be inappropriate for what’s often a frustrating or stressful experience. It  would also contrast starkly with the system’s hard-coded copy.
 
