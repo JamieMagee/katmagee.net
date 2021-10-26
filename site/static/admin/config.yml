@@ -3,7 +3,7 @@ backend:
   branch: main
 media_folder: site/static/img
 public_folder: img
-display_url: https://katnunn.co.uk
+display_url: https://katmagee.net
 collections:
   - label: Case studies
     name: casestudies
