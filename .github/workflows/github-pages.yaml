@@ -43,10 +43,10 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
-          cname: katnunn.co.uk
+          cname: katmagee.net
           force_orphan: true
 
       - name: Save to Wayback Machine
         uses: JamieMagee/wayback@v1.3.8
         with:
-          url: katnunn.co.uk
+          url: katmagee.net
