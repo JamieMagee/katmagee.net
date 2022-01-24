@@ -28,7 +28,7 @@
     "babel-loader": "8.2.3",
     "browser-sync": "2.27.7",
     "core-js": "3.20.3",
-    "cssnano": "5.0.15",
+    "cssnano": "5.0.16",
     "eslint": "7.32.0",
     "eslint-plugin-import": "2.25.4",
     "exports-loader": "2.0.0",
