@@ -1,13 +1,11 @@
 ---
 title: Meet The Mallows
-case_subtitle: Product copy
-description: 'Playful product descriptions for packaging '
+case_subtitle: Packaging copy
+description: Short but sweet packaging copy to bring gourmet confectionary to life
 thumbnail: /img/marshmallows-pumpkin-spice-lakrids1_1296x.jpg
 case_feature_img: /img/marshmallows-pumpkin-spice-lakrids1_1296x.jpg
-case_summary: >-
-  Product copy and proofreading for an indie confectionery brand. My playful
-  sense of humour and keen eye for detail helped bring these marshmallows to
-  life! 
+case_summary: "An indie confectionary brand needed playful  My playful sense of
+  humor and keen eye for detail helped bring these marshmallows to life! "
 date: 2019-10-16T09:11:50.351Z
 draft: true
 ---
