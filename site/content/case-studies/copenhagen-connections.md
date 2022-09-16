@@ -9,7 +9,7 @@ case_summary: "Like many B2B buying journeys, route development is a long and
   with content for its bi-monthly newsletter, landing page, and LinkedIn
   profile. "
 date: 2022-09-16T20:27:13.567Z
-draft: true
+draft: false
 ---
 Industry events are key to nurturing long-term relationships between airports and airline route planners. But how could Copenhagen Airport further these relationships between events? Copenhagen Connections was designed to keep route planners engaged with a bi-monthly newsletter, landing page, and LinkedIn posts. 
 
@@ -17,7 +17,7 @@ Industry events are key to nurturing long-term relationships between airports an
 
 I used expert interviews and my own research to write articles and LinkedIn posts, tailored to this audience with local insights, analysis, and data. I also edited articles written by industry experts to keep all content concise and consistent in house style and British English. 
 
-![](img/mockup-with-email-and-optimising-check-in-article.png)
+![](img/mockup-with-email-and-optimisation-article.jpg)
 
 Copenhagen Connections is seeing great results and growing its online audience month by month. Check out some examples of my work:
 
