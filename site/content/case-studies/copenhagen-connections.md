@@ -13,7 +13,7 @@ draft: false
 ---
 Industry events are key to nurturing long-term relationships between airports and airline route planners. But how could Copenhagen Airport further these relationships between events? Copenhagen Connections was designed to keep route planners engaged with a bi-monthly newsletter, landing page, and LinkedIn posts. 
 
-![](img/mock-up-of-landing-page-and-asian-tourism-piece.png)
+![](img/mockup-of-landing-page.jpg)
 
 I used expert interviews and my own research to write articles and LinkedIn posts, tailored to this audience with local insights, analysis, and data. I also edited articles written by industry experts to keep all content concise and consistent in house style and British English. 
 
