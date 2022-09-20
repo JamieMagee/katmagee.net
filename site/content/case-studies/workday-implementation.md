@@ -16,13 +16,13 @@ Designit, a global strategic design agency, was preparing to implement a new Ent
 
 My challenge was to make the existing Workday UX copy easier to understand and more user-friendly. I also needed to introduce the Designit brand voice to support a consistent employee experience across all touchpoints.
 
-![Project management board showing our WIP (Workday In Progress)](img/workday-planning-board.jpg)
+![Project management board showing our WIP (Workday In Progress)](/img/workday-planning-board.jpg)
 
 I could see that Designit’s typically playful tone would be inappropriate for what’s often a frustrating or stressful experience. It  would also contrast starkly with the system’s hard-coded copy.
 
 I helped find a middle ground, using Designit’s voice in a more serious tone – but more "human" than the default copy. I made sure that all of Designit's internal terminology was aligned (for example, using "People Team" not "HR Department") and established a tone that was conversational but clear. Brief but not brusque. And empathetic to what the user might be feeling.
 
-![Workday training guide for advanced users, such as our operations team](img/advanced-user-manual-mockup.png)
+![Workday training guide for advanced users, such as our operations team](/img/advanced-user-manual-mockup.png)
 
 I was also responsible for writing the training materials, including quick-start infographics, video scripts, and in-depth manuals. We found more room for fun and humor here. We included gamification elements such as "treasure hunts" to support the learning process, complemented by a more light-hearted tone and some self-deprecating jokes. 
 
