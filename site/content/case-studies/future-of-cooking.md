@@ -3,8 +3,8 @@ title: The future of cooking
 case_subtitle: White paper
 description: "Research, copywriting, and editing for a white paper on the future
   of cooking "
-thumbnail: img/photo-15-04-16-11-19-06-copy.jpg
-case_feature_img: img/photo-15-04-16-11-19-06-copy.jpg
+thumbnail: /img/photo-15-04-16-11-19-06-copy.jpg
+case_feature_img: /img/photo-15-04-16-11-19-06-copy.jpg
 case_summary: I researched, wrote, and edited a white paper exploring the future
   of cooking. This thought leadership content helped Designit drive and convert
   sales leads around the globe.
