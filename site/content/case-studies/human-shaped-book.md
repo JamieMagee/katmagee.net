@@ -2,8 +2,8 @@
 title: A human-shaped world
 case_subtitle: "Vision and values "
 description: "An inspirational but playful manifesto for Designit's vision and values "
-thumbnail: img/ahs_1_0004_dsc06546-2.jpg
-case_feature_img: img/ahs_1_0004_dsc06546-2.jpg
+thumbnail: /img/ahs_1_0004_dsc06546-2.jpg
+case_feature_img: /img/ahs_1_0004_dsc06546-2.jpg
 case_summary: Designit needed to consolidate its culture after a period of
   upheaval. I worked closely with key internal stakeholders to distill the
   company's vision and values and communicate them in a uniquely Designit way.
