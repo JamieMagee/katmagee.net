@@ -17,7 +17,7 @@ Industry events are key to nurturing long-term relationships between airports an
 
 I used expert interviews and my own research to write articles and LinkedIn posts, tailored to this audience with local insights, analysis, and data. I also edited articles written by industry experts to keep all content concise and consistent in house style and British English. 
 
-![](/img/mockup-with-email-and-optimisation-article.jpg)
+![](img/mockup-of-asian-tourism-some-and-article.jpg)
 
 Copenhagen Connections is seeing great results and growing its online audience month by month. Check out some examples of my work:
 
