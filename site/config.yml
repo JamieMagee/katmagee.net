@@ -26,7 +26,7 @@ params:
     avatar: /img/katprofilesquare.jpg
     enable: true
     resume: img/kat-magee-cv.pdf
-    subtitle: "Hi! I'm Kat, a copywriter, content strategist, and certified word nerd. "
+    subtitle: "Hi! I'm Kat, a copywriter, copy editor, and certified word nerd. "
     text: >-
       Originally from the UK, I studied ancient languages and linguistics at the
       University of Cambridge. After graduating, I moved to Copenhagen, Denmark,
@@ -37,7 +37,7 @@ params:
       I've brought my hustle to a start-up. Helped an international design firm find the story, values, and voice behind its brand. Guided new users through onboardings. Interviewed thought leaders on everything from self-driving cars to recombinant insulin. And given countless PDFs a final (final!) proofread.
 
 
-      I've found that one of my biggest strengths lies in not only being quick to understand my client's business – I'm also able to understand and empathize with their audience. With this perspective, I help my clients explain complex ideas in simple, engaging, and compelling ways.
+      I've found that one of my biggest strengths lies in not only being quick to understand my client's business—I'm also able to understand and empathize with their audience. With this perspective, I help my clients explain complex ideas in simple, engaging, and compelling ways.
 
 
       For my next adventure? Now I'm in Seattle, WA, and excited to bring these skills to the thriving technology scene here.
@@ -45,5 +45,5 @@ params:
     enable: true
   email: kjmagee30@gmail.com
   description: Portfolio of Kat Magee, a copywriter with 7+ years' experience
-    writing effective sales, marketing and internal communciations content
+    writing effective sales, marketing, and internal communciations content
   linkedin: https://www.linkedin.com/in/katmagee/
