@@ -30,7 +30,7 @@ params:
     text: >-
       Originally from the UK, I studied ancient languages and linguistics at the
       University of Cambridge. After graduating, I moved to Copenhagen, Denmark,
-      where I spent seven years helping international companies ace their brand,
+      where I spent six years helping international companies ace their brand,
       marketing, and communications.
 
 
@@ -44,6 +44,6 @@ params:
   footer:
     enable: true
   email: kjmagee30@gmail.com
-  description: Portfolio of Kat Magee, a copywriter with 7+ years' experience
+  description: Portfolio of Kat Magee, a copywriter with 6+ years' experience
     writing effective sales, marketing, and internal communciations content
   linkedin: https://www.linkedin.com/in/katmagee/
