@@ -8,7 +8,7 @@ markup:
 params:
   nav:
     enable: true
-  logo: /img/logo.png
+  logo: img/k-logo.png
   theme_color: "#49a483"
   description_photo: /img/katprofilesquare.jpg
   process:
@@ -16,7 +16,7 @@ params:
     subtitle: I can help you with...
     title: Skills
   twitter: "@k_j_magee"
-  favicon: /img/favicon.png
+  favicon: img/k-logo.png
   medium: kjmagee
   case_studies:
     enable: true
