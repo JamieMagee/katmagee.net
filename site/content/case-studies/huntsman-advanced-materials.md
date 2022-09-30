@@ -1,7 +1,7 @@
 ---
 title: Hunting down leads
 case_subtitle: Lead-generation
-description: Webinar, e-book, and social media posts generating hundreds of leads
+description: Webinar, e-book, and social media posts that generated hundreds of leads
 thumbnail: img/huntsman-lead-gen-header.jpg
 case_feature_img: img/huntsman-lead-gen-header.jpg
 case_summary: "I helped Huntsman Advanced Materials create a webinar, e-book
