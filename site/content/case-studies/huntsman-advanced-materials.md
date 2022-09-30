@@ -1,7 +1,7 @@
 ---
-title: Huntsman Advanced Materials
+title: Hunting down leads
 case_subtitle: Lead-generation
-description: Driving leads with a webinar, e-book, and social media posts
+description: Webinar, e-book, and social media posts generating hundreds of leads
 thumbnail: img/huntsman-lead-gen-header.jpg
 case_feature_img: img/huntsman-lead-gen-header.jpg
 case_summary: "I helped Huntsman Advanced Materials create a webinar, e-book
@@ -16,7 +16,7 @@ testimonial: We need marketing partners who are willing to challenge our
 testimonial_author: Edward Wynne Morris
 testimonial_subtitle: Communications Director, Huntsman Advanced Materials
 date: 2022-09-30T20:53:39.815Z
-draft: true
+draft: false
 ---
 Huntsman Advanced Materials, a division of the Huntsman Corporation, is a leading provider of advanced epoxy, acrylic, and polyurethane-based polymer products. Huntsman Advanced Materials enjoys a strong market position; however, the company knew that inbound marketing could open the door to drive leads—in both quantity and quality. Huntsman Advanced Materials turned to my agency, Cross-Border Communications, for its expertise in international B2B marketing. 
 
