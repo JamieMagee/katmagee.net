@@ -28,5 +28,3 @@ I also helped the global marketing team adapt this valuable thought leadership c
 ![](/img/future-of-cooking-on-instagram-and-medium.png)
 
 [You can read a copy of the white paper online](https://issuu.com/designit/docs/future_of_cooking).
-
-(The images in this case study were made by my talented colleagues. Thank you!)
