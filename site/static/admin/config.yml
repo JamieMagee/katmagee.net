@@ -165,6 +165,7 @@ collections:
               - label: Twitter
                 name: twitter
                 widget: string
+                required: false
               - label: Dribbble
                 name: dribbble
                 required: false
@@ -201,19 +202,6 @@ collections:
                   - label: CV
                     name: resume
                     widget: file
-              - label: Process settings
-                name: process
-                widget: object
-                fields:
-                  - label: Enabled
-                    name: enable
-                    widget: boolean
-                  - label: Title
-                    name: title
-                    widget: string
-                  - label: Subtitle
-                    name: subtitle
-                    widget: string
               - label: Case study settings
                 name: case_studies
                 widget: object
