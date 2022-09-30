@@ -16,7 +16,7 @@ params:
     subtitle: I can help you with...
     title: Skills
   twitter: "@k_j_magee"
-  favicon: img/k-logo.png
+  favicon: /img/k-logo.png
   medium: kjmagee
   case_studies:
     enable: true
