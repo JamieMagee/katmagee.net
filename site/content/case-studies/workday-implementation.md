@@ -24,7 +24,7 @@ I helped find a middle ground, using Designitâ€™s voice in a more serious tone â
 
 ![Workday training guide for advanced users, such as our operations team](/img/advanced-user-manual-mockup.png)
 
-I was also responsible for writing the training materials, including quick-start infographics, video scripts, and in-depth manuals. We found more room for fun and humor here. We included gamification elements such as "treasure hunts" to support the learning process, complemented by a more light-hearted tone and some self-deprecating jokes. 
+I was also responsible for writing the training materials, including quick-start infographics, video scripts, and in-depth manuals. We found more room for fun and humor here. We included gamification elements such as scavenger hunts to support the learning process, complemented by a more light-hearted tone and some self-deprecating jokes. 
 
 Throughout the project, I collaborated closely with service and UX designers, technologists, and HR specialists to write, test, and implement multiple parts of the system at the same time.
 
