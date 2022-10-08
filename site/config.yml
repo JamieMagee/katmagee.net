@@ -20,7 +20,7 @@ params:
   hero:
     avatar: /img/katprofilesquare.jpg
     enable: true
-    resume: img/kat-magee-cv.pdf
+    resume: /img/kat-magee-cv.pdf
     subtitle: "Hi! I'm Kat, a copywriter, copy editor, and certified word nerd. "
     text: >-
       Originally from the UK, I studied ancient languages and linguistics at the
