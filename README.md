@@ -1,4 +1,4 @@
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/JamieMagee/katnunn.co.uk/github%20pages?style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/JamieMagee/katmagee.net/github-pages.yaml?branch=main&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/jamiemagee/katmagee.net?style=for-the-badge)
 
 Kat Nunn's portfolio
