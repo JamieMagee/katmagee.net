@@ -48,6 +48,6 @@ jobs:
           force_orphan: true
 
       - name: Save to Wayback Machine
-        uses: JamieMagee/wayback@9fed88cd6ddbf0ac98a5b96152bf4fc3807987d3 # v1.3.32
+        uses: JamieMagee/wayback@ecf218c2ceb522645f31569e8147e75bbde55514 # v1.3.33
         with:
           url: katmagee.net
