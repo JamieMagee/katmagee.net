@@ -27,7 +27,7 @@
     "@babel/eslint-parser": "7.23.10",
     "babel-loader": "8.3.0",
     "browser-sync": "2.29.3",
-    "core-js": "3.35.1",
+    "core-js": "3.36.0",
     "cssnano": "5.1.15",
     "eslint": "8.56.0",
     "eslint-plugin-import": "2.29.1",
