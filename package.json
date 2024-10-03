@@ -30,7 +30,7 @@
     "core-js": "3.38.1",
     "cssnano": "5.1.15",
     "eslint": "8.57.1",
-    "eslint-plugin-import": "2.30.0",
+    "eslint-plugin-import": "2.31.0",
     "exports-loader": "4.0.0",
     "gulp": "4.0.2",
     "gulp-babel": "8.0.0",
