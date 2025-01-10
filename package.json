@@ -24,7 +24,7 @@
     "@babel/preset-env": "7.26.0",
     "@babel/preset-react": "7.26.3",
     "@babel/register": "7.25.9",
-    "@babel/eslint-parser": "7.25.9",
+    "@babel/eslint-parser": "7.26.5",
     "babel-loader": "8.4.1",
     "browser-sync": "2.29.3",
     "core-js": "3.40.0",
