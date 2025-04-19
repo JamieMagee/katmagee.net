@@ -6182,12 +6182,12 @@ import-lazy@^3.1.0:
   resolved "https://registry.yarnpkg.com/import-lazy/-/import-lazy-3.1.0.tgz#891279202c8a2280fdbd6674dbd8da1a1dfc67cc"
   integrity sha512-8/gvXvX2JMn0F+CDlSC4l6kOmVaLOO3XLkksI7CI3Ud95KDYJuYur2b9P/PUt/i/pDAMd/DulQsNbbbmRRsDIQ==
 
-imports-loader@4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/imports-loader/-/imports-loader-4.0.1.tgz#a3d3067d0c369cd621e2b322b6b6bb2593756be5"
-  integrity sha512-ZiY+1xH5fqAJ1Qu1CFv+zw54rvPCC92DdYRDe0IIUboOhbJPLfOPbF/paA2iipelvMwjQUKWydcFOJ7f1+ZFcA==
+imports-loader@5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/imports-loader/-/imports-loader-5.0.0.tgz#b18635fd7fe28001518a1f54f30cd1dfbd3c5f38"
+  integrity sha512-tXgL8xxZFjOjQLLiE7my00UUQfktg4G8fdpXcZphL0bJWbk9eCxKKFaCwmFRcwyRJQl95GXBL1DoE1rCS/tcPw==
   dependencies:
-    source-map "^0.6.1"
+    source-map-js "^1.0.2"
     strip-comments "^2.0.1"
 
 imurmurhash@^0.1.4:
@@ -11408,7 +11408,7 @@ sort-object@^0.3.2:
     sort-asc "^0.1.0"
     sort-desc "^0.1.1"
 
-source-map-js@^1.0.1, source-map-js@^1.2.1:
+source-map-js@^1.0.1, source-map-js@^1.0.2, source-map-js@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.1.tgz#1ce5650fddd87abc099eda37dcff024c2667ae46"
   integrity sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==
