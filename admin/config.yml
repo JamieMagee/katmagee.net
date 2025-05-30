@@ -1,0 +1,224 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: site/static/img
+public_folder: img
+display_url: https://katmagee.net
+collections:
+  - label: Case studies
+    name: casestudies
+    folder: site/content/case-studies
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - label: Page Title
+        name: title
+        widget: string
+      - label: Subtitle
+        name: case_subtitle
+        widget: string
+      - label: Description
+        name: description
+        widget: string
+      - label: Thumbnail
+        name: thumbnail
+        widget: image
+      - label: Featured Image
+        name: case_feature_img
+        widget: image
+      - label: Summary
+        name: case_summary
+        widget: text
+      - label: Team
+        name: team
+        widget: list
+        required: false
+      - label: Roles
+        name: roles
+        widget: list
+        required: false
+      - label: Methods
+        name: methods
+        widget: list
+        required: false
+      - label: Links
+        name: button_links
+        widget: list
+        required: false
+        fields:
+          - label: URL
+            name: link
+            widget: string
+          - label: Image
+            name: img
+            widget: select
+            options:
+              - book.svg
+              - closetag.svg
+              - dl-resume.svg
+              - download.svg
+              - eyeball.svg
+              - repeat.svg
+              - rulerpencil.svg
+              - ui.svg
+              - wand.svg
+          - label: Text
+            name: text
+            widget: string
+      - label: Testimonial
+        name: testimonial
+        widget: string
+        required: false
+      - label: Testimonial photo
+        name: testimonial_photo
+        widget: image
+        required: false
+      - label: Testimonial Author
+        name: testimonial_author
+        widget: string
+        required: false
+      - label: Testimonial Author Title
+        name: testimonial_subtitle
+        required: false
+        type: string
+      - label: Date
+        name: date
+        widget: datetime
+      - label: Draft
+        name: draft
+        widget: boolean
+      - label: Body
+        name: body
+        widget: markdown
+  - label: Process
+    name: process
+    folder: site/data/process
+    extension: yaml
+    create: true
+    fields:
+      - label: Weight
+        name: weight
+        widget: number
+        valueType: int
+        min: 1
+      - label: Title
+        name: title
+        widget: string
+      - label: Icon
+        name: icon
+        widget: select
+        options:
+          - book.svg
+          - closetag.svg
+          - dl-resume.svg
+          - download.svg
+          - eyeball.svg
+          - repeat.svg
+          - rulerpencil.svg
+          - ui.svg
+          - wand.svg
+      - label: Description
+        name: description
+        widget: string
+  - label: Configuration
+    name: configuration
+    files:
+      - label: Config
+        name: config
+        file: site/config.yml
+        fields:
+          - label: Base URL
+            name: baseurl
+            widget: hidden
+          - label: Language code
+            name: languageCode
+            widget: hidden
+          - label: Title
+            name: title
+            widget: string
+          - label: Settings
+            name: params
+            widget: object
+            fields:
+              - label: Theme colour
+                name: theme_color
+                widget: color
+              - label: Description
+                name: description
+                widget: string
+              - label: Photo
+                name: description_photo
+                widget: image
+              - label: Favicon
+                name: favicon
+                widget: image
+              - label: Logo
+                name: logo
+                widget: image
+              - label: Email
+                name: email
+                widget: string
+              - label: Facebook
+                name: facebook
+                required: false
+                widget: string
+              - label: Twitter
+                name: twitter
+                widget: string
+                required: false
+              - label: Dribbble
+                name: dribbble
+                required: false
+                widget: string
+              - label: Linkedin
+                name: linkedin
+                widget: string
+              - label: Medium
+                name: medium
+                widget: string
+              - label: Navigation settings
+                name: nav
+                widget: object
+                fields:
+                  - label: Enabled
+                    name: enable
+                    widget: boolean
+              - label: Hero settings
+                name: hero
+                widget: object
+                fields:
+                  - label: Enabled
+                    name: enable
+                    widget: boolean
+                  - label: Avatar
+                    name: avatar
+                    widget: image
+                  - label: Subtitle
+                    name: subtitle
+                    widget: text
+                  - label: Text
+                    name: text
+                    widget: markdown
+                  - label: CV
+                    name: resume
+                    widget: file
+              - label: Case study settings
+                name: case_studies
+                widget: object
+                fields:
+                  - label: Enabled
+                    name: enable
+                    widget: boolean
+                  - label: Title
+                    name: title
+                    widget: string
+                  - label: Subtitle
+                    name: subtitle
+                    widget: string
+              - label: Footer settings
+                name: footer
+                widget: object
+                fields:
+                  - label: Enabled
+                    name: enable
+                    widget: boolean
